@@ -1,0 +1,240 @@
+중요한 | Having great significance or value | It's important to study every day for better results. | general
+아름다운 | Pleasing to look at; attractive | The sunset was beautiful over the calm lake. | general
+친근한 | Kind and pleasant to others | The teacher was very friendly to all new students. | general
+도움이 되는 | Giving or ready to give help | My neighbor is always helpful when I need assistance. | general
+창의적인 | Having the ability to make new things | She is very creative with her art projects. | general
+조심스러운 | Taking care to avoid danger or mistakes | Be careful when crossing the busy street. | general
+인기 있는 | Liked by many people | Pizza is a popular food choice among teenagers. | general
+현대적인 | Relating to the present time | The modern technology makes our lives easier. | general
+간단한 | Easy to understand or do | This recipe is simple and quick to make. | general
+자연스러운 | Existing in nature, not made by humans | I prefer natural foods over processed ones. | general
+특별한 | Better or more important than usual | Today is a special day for our family. | general
+완벽한 | Having no mistakes or faults | The weather is perfect for a picnic today. | general
+정직한 | Telling the truth; not lying | An honest person always tells the truth. | general
+관대한 | Willing to give more than necessary | My grandfather was generous with his time and money. | general
+참을성 있는 | Able to wait calmly | Good teachers are patient with slow learners. | general
+자신감 있는 | Feeling sure about your abilities | She felt confident about passing the exam. | general
+호기심 많은 | Wanting to know or learn about things | Children are naturally curious about the world. | general
+체계적인 | Arranged in a neat and logical way | Keep your desk organized for better productivity. | general
+편안한 | Free from tension and anxiety | I feel relaxed when I listen to music. | general
+성공적인 | Achieving desired results | Hard work leads to successful outcomes. | general
+행복한 | Feeling joy and pleasure | Children are happy when they play with friends. | general
+똑똑한 | Having intelligence and good judgment | Smart students ask questions to learn more. | general
+강한 | Having physical power | Exercise makes your muscles strong and healthy. | general
+친절한 | Having a good and caring nature | Kind people help others without expecting rewards. | general
+용감한 | Not afraid in dangerous situations | The brave firefighter saved the family from fire. | general
+예의 바른 | Having good manners | Polite children say please and thank you. | general
+재미있는 | Causing laughter | The funny movie made everyone in theater laugh. | general
+빠른 | Moving or happening fast | The quick rabbit ran away from the dog. | general
+조용한 | Making little or no noise | Please be quiet during the library study time. | general
+공정한 | Treating everyone equally | The fair teacher gives everyone equal chances. | general
+동물 | A living creature that can move and eat | The zoo has many different animals from around the world. | science
+식물 | A living thing that grows in soil | Water the plant every morning to keep it healthy. | science
+물 | Clear liquid that falls as rain | Drink plenty of water to stay healthy. | science
+에너지 | Power used to make things work | Solar panels collect energy from the sun. | science
+자연 | The physical world including plants and animals | Spending time in nature helps reduce stress. | science
+날씨 | Conditions outside like rain or sunshine | Check the weather before planning outdoor activities. | science
+기후 | The usual weather in a place | The climate here is warm and sunny most of the year. | science
+바다 | Very large area of salt water | The Pacific Ocean is the largest ocean on Earth. | science
+숲 | Large area covered with trees | Many wild animals live in the forest. | science
+산 | Very high area of land | We climbed the mountain to see the beautiful view. | science
+강 | Large stream of water flowing to the sea | The river flows through the center of our city. | science
+지구 | The planet we live on | Earth is the only planet known to have life. | science
+우주 | The area beyond Earth where stars exist | Astronauts travel to space in rockets. | science
+과학 | Study of the natural world | Science helps us understand how things work. | science
+건강 | Being free from illness | Exercise and good food are important for health. | science
+약 | Treatment used to cure illness | Take your medicine three times a day. | science
+의사 | Person who treats sick people | Visit the doctor if you feel unwell. | science
+환경 | The natural world around us | We must protect the environment for future generations. | science
+온도 | How hot or cold something is | The temperature today is perfect for swimming. | science
+실험 | Test done to learn something new | We did a science experiment in class today. | science
+발견 | Finding something new | The discovery of electricity changed the world. | science
+발명 | Something created for first time | The invention of the wheel helped transportation. | science
+태양의 | Related to the sun | Solar panels use sunlight to create electricity. | science
+세포 | Smallest unit of living things | All plants and animals are made of cells. | science
+뼈 | Hard parts inside body | Strong bones support your body weight. | science
+피 | Red liquid that flows in body | Blood carries oxygen to all body parts. | science
+뇌 | Organ that controls thinking | The brain controls all body functions. | science
+중력 | Force that pulls things down | Gravity makes things fall to the ground. | science
+전기 | Power that makes lights work | Electricity powers our computers and phones. | science
+화학물질 | Substance used in science | Water is a chemical made of hydrogen and oxygen. | science
+일 | Activity done to earn money | I work at a local restaurant on weekends. | business
+직업 | Regular paid employment | She found a good job at the bank. | business
+돈 | Coins and notes used to buy things | Save your money for something special. | business
+사업 | Activity of buying and selling | My uncle owns a small business in town. | business
+회사 | Organization that sells goods or services | The company employs over 100 people. | business
+고객 | Person who buys goods or services | Good customer service is very important. | business
+제품 | Something made to be sold | This product is very popular with young people. | business
+서비스 | Work done to help customers | The hotel provides excellent room service. | business
+가격 | Amount of money something costs | The price of gas has increased this month. | business
+판매 | Act of selling something | The store is having a big sale this weekend. | business
+이익 | Money gained from business | The company made a good profit last year. | business
+시장 | Place where things are bought and sold | We buy fresh vegetables at the local market. | business
+사무실 | Place where business work is done | My office is on the third floor of the building. | business
+관리자 | Person who controls a business or team | The manager held a meeting with all employees. | business
+직원 | Person who works for a company | Every employee received a bonus this Christmas. | business
+회의 | Gathering of people to discuss business | We have a team meeting every Monday morning. | business
+계약 | Legal agreement between people or companies | Read the contract carefully before signing it. | business
+투자 | Money put into something to make profit | Real estate can be a good investment. | business
+예산 | Plan for spending money | Make a monthly budget to control your expenses. | business
+성공 | Achievement of desired goals | Hard work and dedication lead to success. | business
+목표 | Something you want to achieve | Set a goal and work hard to reach it. | business
+계획 | Idea about what to do | Make a plan before starting any project. | business
+팀 | Group working together | Our team works together to finish projects. | business
+아이디어 | Thought about something new | She had a great idea for the school project. | business
+가게 | Place where things are sold | The grocery store sells fresh food daily. | business
+팔다 | Give something for money | They sell books at the school bookstore. | business
+사다 | Get something by paying money | We buy groceries every Saturday morning. | business
+저축하다 | Keep money for future use | Save some money each week for emergencies. | business
+쓰다 | Use money to buy things | Don't spend all your money on games. | business
+벌다 | Get money by working | Students can earn money by helping neighbors. | business
+이야기 | Description of events, real or imaginary | Grandma told us an interesting story about her childhood. | literature
+책 | Set of pages with writing or pictures | I borrowed a book from the library yesterday. | literature
+작가 | Person who writes books or stories | The author signed copies of her new book. | literature
+등장인물 | Person in a story or play | Harry Potter is the main character in the series. | literature
+영웅 | Main good character in a story | The hero saved the village from danger. | literature
+모험 | Exciting and dangerous experience | The book describes an adventure in the jungle. | literature
+미스터리 | Something that is difficult to understand | The detective solved the mystery of the missing jewels. | literature
+소설 | Stories that are made up, not real | I enjoy reading fiction more than factual books. | literature
+시 | Writing that expresses feelings in verse | She writes beautiful poetry about nature. | literature
+소설 | Long story book | This novel took me two weeks to finish reading. | literature
+드라마 | Play performed in theater | The school is performing a drama next month. | literature
+코미디 | Funny play or story | We watched a comedy that made everyone laugh. | literature
+시 | Piece of writing in verse | She recited a poem about friendship. | literature
+읽기 | Activity of looking at and understanding words | Reading books improves your vocabulary. | literature
+쓰기 | Activity of creating text | Good writing takes practice and patience. | literature
+언어 | System of communication using words | English is spoken as a second language worldwide. | literature
+단어 | Single unit of language | Learn a new word every day to improve your English. | literature
+문장 | Group of words expressing a complete thought | Write a sentence using your new vocabulary word. | literature
+페이지 | One side of a sheet in a book | Turn to page 50 to continue the story. | literature
+장 | Section of a book | Each chapter in this book tells a different story. | literature
+도서관 | Place with many books to read | The library is quiet place for reading and study. | literature
+동화 | Magical story for children | Cinderella is a famous fairy tale loved by children. | literature
+교훈 | Something to be learned | Every story teaches us an important lesson. | literature
+정보 | Facts about something | Books contain lots of useful information. | literature
+지식 | Things you know and understand | Reading books increases your knowledge about world. | literature
+상상력 | Ability to create pictures in mind | Use your imagination to create wonderful stories. | literature
+좋아하는 | Thing you like most | What is your favorite book to read? | literature
+잡지 | Book with pictures and short articles | The magazine has interesting articles and photos. | literature
+신문 | Daily paper with news | The newspaper tells us what happens daily. | literature
+사전 | Book explaining word meanings | Use dictionary to find meanings of new words. | literature
+여행 | Go from one place to another | Many people travel during summer vacation. | travel
+여행 | Journey to a place and back | We're planning a trip to the mountains next weekend. | travel
+여정 | Act of traveling from one place to another | The journey by train was comfortable and scenic. | travel
+휴가 | Time spent away from work for rest | We had a wonderful vacation at the beach. | travel
+호텔 | Building where travelers can stay | The hotel room had a beautiful view of the ocean. | travel
+공항 | Place where airplanes take off and land | Arrive at the airport two hours before your flight. | travel
+비행기 | Journey by airplane | Our flight to Paris was delayed by two hours. | travel
+표 | Paper showing you paid for travel | Keep your ticket safe until the end of your journey. | travel
+여행가방 | Container for clothes when traveling | Pack your suitcase the night before traveling. | travel
+관광객 | Person who visits places for pleasure | Many tourists visit this city every summer. | travel
+가이드 | Person who shows tourists around | The tour guide explained the history of the castle. | travel
+박물관 | Building displaying historical objects | The art museum has paintings from famous artists. | travel
+해변 | Sandy area beside the sea | Children love playing in the sand at the beach. | travel
+산 | Very high area of land | The view from the mountain top was breathtaking. | travel
+도시 | Large town with many people | New York is a busy city that never sleeps. | travel
+나라 | Nation with its own government | France is a beautiful country to visit. | travel
+문화 | Way of life of a group of people | Learning about local culture makes travel more interesting. | travel
+음식 | Things we eat | Try the local food when you visit new places. | travel
+언어 | Way people communicate | Learning basic phrases in the local language is helpful. | travel
+지도 | Drawing showing where places are | Use a map to find your way around the new city. | travel
+기차 | Long vehicle that travels on tracks | The train carries many people to different cities. | travel
+버스 | Large vehicle for many passengers | The school bus takes children to school safely. | travel
+자동차 | Vehicle for small group of people | Our family car takes us on weekend trips. | travel
+비행기 | Flying vehicle for long distances | The plane flies high above the clouds. | travel
+길 | Path for cars to drive on | The road leads to the beautiful mountain lake. | travel
+다리 | Structure built over water or valley | The bridge connects two sides of the river. | travel
+역 | Place where trains or buses stop | Wait at the station for the next train. | travel
+거리 | Space between two places | The distance between home and school is short. | travel
+방향 | Way to go to reach place | Ask for directions if you get lost. | travel
+모험 | Exciting experience | Camping in forest was a great adventure. | travel
+역사 | Study of past events | History helps us understand how the world changed. | history
+과거 | Time before now | In the past, people traveled by horse and carriage. | history
+고대의 | Very old, from long ago | Ancient Egypt had powerful kings called pharaohs. | history
+전쟁 | Fighting between countries or groups | The war ended when both sides agreed to peace. | history
+평화 | Time when there is no fighting | After years of conflict, peace finally came to the region. | history
+왕 | Male ruler of a country | The king lived in a magnificent castle. | history
+여왕 | Female ruler of a country | The queen was loved by all her people. | history
+성 | Large strong building where rulers lived | The medieval castle still stands on the hill. | history
+전투 | Fight between armies | The famous battle took place near the river. | history
+발견 | Finding something new | The discovery of America changed world history. | history
+탐험가 | Person who travels to unknown places | The brave explorer sailed across dangerous seas. | history
+문화 | Way of life of a group of people | Ancient Greek culture influenced many other civilizations. | history
+예술 | Creative works like paintings and sculptures | Renaissance art is displayed in museums worldwide. | history
+종교 | Belief in gods or spiritual ideas | Religion played an important role in ancient societies. | history
+정부 | Group of people who rule a country | The government makes laws for all citizens to follow. | history
+발명 | Something created for the first time | The invention of the wheel changed transportation forever. | history
+혁명 | Big change in how things are done | The industrial revolution changed how people worked. | history
+제국 | Group of countries ruled by one power | The Roman Empire was one of the largest in history. | history
+전통 | Custom passed from older to younger people | Family traditions connect us to our ancestors. | history
+기념비 | Structure built to remember important events | The monument honors soldiers who died in the war. | history
+영웅 | Person who does brave things | The hero saved many people during the flood. | history
+지도자 | Person who guides others | A good leader helps people make right decisions. | history
+군인 | Person who fights for country | Brave soldiers protect our country from enemies. | history
+자유 | Ability to do what you want | Freedom means you can choose your own path. | history
+승리 | Winning in battle or competition | The team celebrated their victory in the game. | history
+변화 | Making something different | People can change the world with good ideas. | history
+미래 | Time that will come later | Students study hard to build better future. | history
+기억 | Remembering things from past | We keep memory of important events alive. | history
+이야기 | Account of past events | Grandparents tell stories about old times. | history
+전설 | Old story passed down | The legend tells about brave knight's adventures. | history
+지리 | Study of Earth's surface and features | Geography class taught us about different countries. | geography
+지구 | The planet where we live | Earth is the third planet from the sun. | geography
+대륙 | Very large area of land | Asia is the largest continent in the world. | geography
+바다 | Very large area of salt water | The Atlantic Ocean separates Europe and America. | geography
+나라 | Area with its own government | Canada is a country in North America. | geography
+도시 | Large town where many people live | London is the capital city of England. | geography
+강 | Large stream of water | The Amazon River flows through South America. | geography
+산 | Very high area of land | Mount Everest is the highest mountain on Earth. | geography
+사막 | Very dry area with little water | The Sahara Desert covers much of North Africa. | geography
+숲 | Large area covered with trees | The rainforest is home to many animal species. | geography
+섬 | Piece of land surrounded by water | Japan is an island nation in the Pacific Ocean. | geography
+호수 | Large area of water surrounded by land | We went fishing at the beautiful mountain lake. | geography
+기후 | Usual weather in a place | The tropical climate is hot and humid year-round. | geography
+인구 | Number of people living in a place | The city's population has grown rapidly in recent years. | geography
+수도 | Most important city in a country | Paris is the capital of France. | geography
+국경 | Line separating two countries | Show your passport when crossing the border. | geography
+해안 | Land next to the sea | The west coast has beautiful beaches and cliffs. | geography
+계곡 | Low area between hills or mountains | The green valley was perfect for farming. | geography
+북쪽 | Direction toward the top of maps | Canada is north of the United States. | geography
+남쪽 | Direction toward the bottom of maps | We drove south for our winter vacation. | geography
+동쪽 | Direction where sun rises | The sun rises in the east every morning. | geography
+서쪽 | Direction where sun sets | The sun sets in the west every evening. | geography
+세계 | All the countries and people on Earth | People from around world speak different languages. | geography
+지도 | Picture showing countries and places | Look at the map to find your country. | geography
+날씨 | Rain, sun, wind, and temperature outside | Today's weather is perfect for outdoor games. | geography
+계절 | Time of year like summer or winter | Spring is the season when flowers bloom. | geography
+뜨거운 | Having high temperature | Desert places are very hot during the day. | geography
+차가운 | Having low temperature | Mountain tops are cold even in summer. | geography
+비 | Water falling from clouds | Plants need rain to grow big and strong. | geography
+태양 | Bright star that gives light and heat | The sun gives us light during the day. | geography
+건강 | Being free from illness | Good health is more important than wealth. | health
+의사 | Person who treats sick people | Visit the doctor if you don't feel well. | health
+약 | Treatment for illness | Take your medicine with water after meals. | health
+병원 | Place where sick people are treated | The new hospital has the latest medical equipment. | health
+운동 | Physical activity to stay healthy | Regular exercise helps keep your body strong. | health
+식단 | Food and drink regularly consumed | A healthy diet includes lots of fruits and vegetables. | health
+영양 | Process of getting food needed for health | Good nutrition is essential for growing children. | health
+건강 | Being physically healthy and strong | The gym helps people improve their fitness level. | health
+잠 | Natural rest when eyes are closed | Adults need about eight hours of sleep each night. | health
+스트레스 | Feeling worried or pressured | Too much stress can harm your physical health. | health
+비타민 | Substances needed for good health | Fruits contain vitamins that boost your immune system. | health
+질병 | Disease or period of being sick | Wash your hands regularly to prevent illness. | health
+회복 | Process of getting better after illness | Rest and proper care speed up recovery time. | health
+예방 | Stopping something bad from happening | Prevention is better than cure for most diseases. | health
+치료 | Medical care for illness or injury | Early treatment can prevent serious complications. | health
+증상 | Signs that show someone is sick | Fever and headache are common cold symptoms. | health
+검진 | Medical examination to check health | Get a regular checkup to monitor your health. | health
+위생 | Practices to maintain health and cleanliness | Good personal hygiene prevents many infections. | health
+정신적인 | Related to the mind and emotions | Mental health is just as important as physical health. | health
+건강 | State of being healthy and happy | The wellness program focuses on total health improvement. | health
+강한 | Having power and energy | Eating good food makes your body strong. | health
+약한 | Not having much strength | You feel weak when you don't eat enough. | health
+피곤한 | Needing rest or sleep | Children feel tired after playing all day. | health
+에너지 | Power to be active | Good breakfast gives you energy for whole day. | health
+휴식 | Stop activity to relax | Take rest when you feel tired from work. | health
+깨끗한 | Free from dirt | Keep your hands clean to avoid getting sick. | health
+씻다 | Clean with water | Wash your hands before eating food. | health
+아프다 | Feel pain | Your knee will hurt if you fall down. | health
+안전한 | Protected from danger | Wear helmet to keep your head safe. | health
+위험 | Possibility of harm | Fire is danger, so stay away from it. | health

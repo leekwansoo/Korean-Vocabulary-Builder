@@ -1,0 +1,3378 @@
+{
+  "general": [
+    {
+      "word": "중요한",
+      "meaning": "Having great significance or value",
+      "phrase": "It's important to study every day for better results.",
+      "korean_phrase": "더 나은 결과를 위해 매일 공부하는 것이 중요합니다.",
+      "expressions": [
+        "This is very important.",
+        "The important thing is to try."
+      ],
+      "korean_expressions": [
+        "이것은 매우 중요합니다.",
+        "중요한 것은 시도하는 것입니다."
+      ]
+    },
+    {
+      "word": "아름다운",
+      "meaning": "Pleasing to look at; attractive",
+      "phrase": "The sunset was beautiful over the calm lake.",
+      "korean_phrase": "고요한 호수 위의 일몰이 아름다웠습니다.",
+      "expressions": [
+        "This is beautiful.",
+        "I like beautiful."
+      ],
+      "korean_expressions": [
+        "이것은 아름답습니다.",
+        "나는 아름다운 것을 좋아합니다."
+      ]
+    },
+    {
+      "word": "친근한",
+      "meaning": "Kind and pleasant to others",
+      "phrase": "The teacher was very friendly to all new students.",
+      "korean_phrase": "선생님은 모든 새로운 학생들에게 매우 친근했습니다.",
+      "expressions": [
+        "He's so friendly to everyone.",
+        "She has a friendly smile."
+      ],
+      "korean_expressions": [
+        "그는 모든 사람에게 매우 친근합니다.",
+        "그녀는 친근한 미소를 가지고 있습니다."
+      ]
+    },
+    {
+      "word": "도움이 되는",
+      "meaning": "Giving or ready to give help",
+      "phrase": "My neighbor is always helpful when I need assistance.",
+      "korean_phrase": "내 이웃은 도움이 필요할 때 항상 도움이 됩니다.",
+      "expressions": [
+        "You're very helpful.",
+        "That was really helpful advice."
+      ],
+      "korean_expressions": [
+        "당신은 매우 도움이 됩니다.",
+        "그것은 정말 도움이 되는 조언이었습니다."
+      ]
+    },
+    {
+      "word": "창의적인",
+      "meaning": "Having the ability to make new things",
+      "phrase": "She is very creative with her art projects.",
+      "korean_phrase": "그녀는 예술 작품에서 매우 창의적입니다.",
+      "expressions": [
+        "Be creative with your ideas.",
+        "That's a creative solution."
+      ],
+      "korean_expressions": [
+        "아이디어를 창의적으로 만드세요.",
+        "그것은 창의적인 해결책입니다."
+      ]
+    },
+    {
+      "word": "조심스러운",
+      "meaning": "Taking care to avoid danger or mistakes",
+      "phrase": "Be careful when crossing the busy street.",
+      "korean_phrase": "바쁜 길을 건널 때 조심하세요.",
+      "expressions": [
+        "This is careful.",
+        "I like careful."
+      ],
+      "korean_expressions": [
+        "이것은 careful입니다.",
+        "나는 careful를 좋아합니다."
+      ]
+    },
+    {
+      "word": "인기 있는",
+      "meaning": "Liked by many people",
+      "phrase": "Pizza is a popular food choice among teenagers.",
+      "korean_phrase": "피자는 십대들 사이에서 인기 있는 음식 선택입니다.",
+      "expressions": [
+        "This is popular.",
+        "I like popular."
+      ],
+      "korean_expressions": [
+        "이것은 popular입니다.",
+        "나는 popular를 좋아합니다."
+      ]
+    },
+    {
+      "word": "현대적인",
+      "meaning": "Relating to the present time",
+      "phrase": "The modern technology makes our lives easier.",
+      "korean_phrase": "현대 기술은 우리의 삶을 더 쉽게 만듭니다.",
+      "expressions": [
+        "This is modern.",
+        "I like modern."
+      ],
+      "korean_expressions": [
+        "이것은 modern입니다.",
+        "나는 modern를 좋아합니다."
+      ]
+    },
+    {
+      "word": "간단한",
+      "meaning": "Easy to understand or do",
+      "phrase": "This recipe is simple and quick to make.",
+      "korean_phrase": "이 요리법은 간단하고 빠르게 만들 수 있습니다.",
+      "expressions": [
+        "This is simple.",
+        "I like simple."
+      ],
+      "korean_expressions": [
+        "이것은 simple입니다.",
+        "나는 simple를 좋아합니다."
+      ]
+    },
+    {
+      "word": "자연스러운",
+      "meaning": "Existing in nature, not made by humans",
+      "phrase": "I prefer natural foods over processed ones.",
+      "korean_phrase": "나는 가공식품보다 자연식품을 선호합니다.",
+      "expressions": [
+        "This is natural.",
+        "I like natural."
+      ],
+      "korean_expressions": [
+        "이것은 natural입니다.",
+        "나는 natural를 좋아합니다."
+      ]
+    },
+    {
+      "word": "특별한",
+      "meaning": "Better or more important than usual",
+      "phrase": "Today is a special day for our family.",
+      "korean_phrase": "오늘은 우리 가족에게 특별한 날입니다.",
+      "expressions": [
+        "This is special.",
+        "I like special."
+      ],
+      "korean_expressions": [
+        "이것은 special입니다.",
+        "나는 special를 좋아합니다."
+      ]
+    },
+    {
+      "word": "완벽한",
+      "meaning": "Having no mistakes or faults",
+      "phrase": "The weather is perfect for a picnic today.",
+      "korean_phrase": "오늘 날씨는 피크닉하기에 완벽합니다.",
+      "expressions": [
+        "This is perfect.",
+        "I like perfect."
+      ],
+      "korean_expressions": [
+        "이것은 perfect입니다.",
+        "나는 perfect를 좋아합니다."
+      ]
+    },
+    {
+      "word": "정직한",
+      "meaning": "Telling the truth; not lying",
+      "phrase": "An honest person always tells the truth.",
+      "korean_phrase": "정직한 사람은 항상 진실을 말합니다.",
+      "expressions": [
+        "This is honest.",
+        "I like honest."
+      ],
+      "korean_expressions": [
+        "이것은 honest입니다.",
+        "나는 honest를 좋아합니다."
+      ]
+    },
+    {
+      "word": "관대한",
+      "meaning": "Willing to give more than necessary",
+      "phrase": "My grandfather was generous with his time and money.",
+      "korean_phrase": "할아버지는 시간과 돈에 관대하셨습니다.",
+      "expressions": [
+        "This is generous.",
+        "I like generous."
+      ],
+      "korean_expressions": [
+        "이것은 generous입니다.",
+        "나는 generous를 좋아합니다."
+      ]
+    },
+    {
+      "word": "참을성 있는",
+      "meaning": "Able to wait calmly",
+      "phrase": "Good teachers are patient with slow learners.",
+      "korean_phrase": "좋은 선생님들은 느린 학습자들에게 참을성이 있습니다.",
+      "expressions": [
+        "This is patient.",
+        "I like patient."
+      ],
+      "korean_expressions": [
+        "이것은 patient입니다.",
+        "나는 patient를 좋아합니다."
+      ]
+    },
+    {
+      "word": "자신감 있는",
+      "meaning": "Feeling sure about your abilities",
+      "phrase": "She felt confident about passing the exam.",
+      "korean_phrase": "그녀는 시험에 합격할 것이라고 자신감을 느꼈습니다.",
+      "expressions": [
+        "This is confident.",
+        "I like confident."
+      ],
+      "korean_expressions": [
+        "이것은 confident입니다.",
+        "나는 confident를 좋아합니다."
+      ]
+    },
+    {
+      "word": "호기심 많은",
+      "meaning": "Wanting to know or learn about things",
+      "phrase": "Children are naturally curious about the world.",
+      "korean_phrase": "아이들은 세상에 대해 자연스럽게 호기심이 많습니다.",
+      "expressions": [
+        "This is curious.",
+        "I like curious."
+      ],
+      "korean_expressions": [
+        "이것은 curious입니다.",
+        "나는 curious를 좋아합니다."
+      ]
+    },
+    {
+      "word": "체계적인",
+      "meaning": "Arranged in a neat and logical way",
+      "phrase": "Keep your desk organized for better productivity.",
+      "korean_phrase": "더 나은 생산성을 위해 책상을 정리하세요.",
+      "expressions": [
+        "This is organized.",
+        "I like organized."
+      ],
+      "korean_expressions": [
+        "이것은 organized입니다.",
+        "나는 organized를 좋아합니다."
+      ]
+    },
+    {
+      "word": "편안한",
+      "meaning": "Free from tension and anxiety",
+      "phrase": "I feel relaxed when I listen to music.",
+      "korean_phrase": "음악을 들을 때 편안함을 느낍니다.",
+      "expressions": [
+        "This is relaxed.",
+        "I like relaxed."
+      ],
+      "korean_expressions": [
+        "이것은 relaxed입니다.",
+        "나는 relaxed를 좋아합니다."
+      ]
+    },
+    {
+      "word": "성공적인",
+      "meaning": "Achieving desired results",
+      "phrase": "Hard work leads to successful outcomes.",
+      "korean_phrase": "열심히 일하면 성공적인 결과를 얻습니다.",
+      "expressions": [
+        "This is successful.",
+        "I like successful."
+      ],
+      "korean_expressions": [
+        "이것은 successful입니다.",
+        "나는 successful를 좋아합니다."
+      ]
+    },
+    {
+      "word": "행복한",
+      "meaning": "Feeling joy and pleasure",
+      "phrase": "Children are happy when they play with friends.",
+      "korean_phrase": "아이들은 친구들과 놀 때 행복합니다.",
+      "expressions": [
+        "I am happy today.",
+        "Happy people smile often."
+      ],
+      "korean_expressions": [
+        "나는 오늘 행복합니다.",
+        "행복한 사람들은 자주 미소를 짓습니다."
+      ]
+    },
+    {
+      "word": "똑똑한",
+      "meaning": "Having intelligence and good judgment",
+      "phrase": "Smart students ask questions to learn more.",
+      "korean_phrase": "똑똑한 학생들은 더 배우기 위해 질문을 합니다.",
+      "expressions": [
+        "She is very smart.",
+        "Smart people study hard."
+      ],
+      "korean_expressions": [
+        "그녀는 매우 똑똑합니다.",
+        "똑똑한 사람들은 열심히 공부합니다."
+      ]
+    },
+    {
+      "word": "강한",
+      "meaning": "Having physical power",
+      "phrase": "Exercise makes your muscles strong and healthy.",
+      "korean_phrase": "운동은 근육을 강하고 건강하게 만듭니다.",
+      "expressions": [
+        "He is strong.",
+        "Strong people help others."
+      ],
+      "korean_expressions": [
+        "그는 강합니다.",
+        "강한 사람들은 다른 사람들을 돕습니다."
+      ]
+    },
+    {
+      "word": "친절한",
+      "meaning": "Having a good and caring nature",
+      "phrase": "Kind people help others without expecting rewards.",
+      "korean_phrase": "친절한 사람들은 보상을 기대하지 않고 다른 사람들을 돕습니다.",
+      "expressions": [
+        "Be kind to animals.",
+        "Kind words make difference."
+      ],
+      "korean_expressions": [
+        "동물들에게 친절하세요.",
+        "친절한 말은 차이를 만듭니다."
+      ]
+    },
+    {
+      "word": "용감한",
+      "meaning": "Not afraid in dangerous situations",
+      "phrase": "The brave firefighter saved the family from fire.",
+      "korean_phrase": "용감한 소방관이 화재로부터 가족을 구했습니다.",
+      "expressions": [
+        "Be brave.",
+        "Brave people face fears."
+      ],
+      "korean_expressions": [
+        "용감하세요.",
+        "용감한 사람들은 두려움에 맞섭니다."
+      ]
+    },
+    {
+      "word": "예의 바른",
+      "meaning": "Having good manners",
+      "phrase": "Polite children say please and thank you.",
+      "korean_phrase": "예의 바른 아이들은 부탁하고 감사 인사를 합니다.",
+      "expressions": [
+        "Always be polite.",
+        "Polite behavior is good."
+      ],
+      "korean_expressions": [
+        "항상 예의 바르게 행동하세요.",
+        "예의 바른 행동은 좋습니다."
+      ]
+    },
+    {
+      "word": "재미있는",
+      "meaning": "Causing laughter",
+      "phrase": "The funny movie made everyone in theater laugh.",
+      "korean_phrase": "재미있는 영화가 극장의 모든 사람들을 웃게 했습니다.",
+      "expressions": [
+        "That's really funny.",
+        "Funny stories entertain us."
+      ],
+      "korean_expressions": [
+        "그것은 정말 재미있습니다.",
+        "재미있는 이야기들이 우리를 즐겁게 합니다."
+      ]
+    },
+    {
+      "word": "빠른",
+      "meaning": "Moving or happening fast",
+      "phrase": "The quick rabbit ran away from the dog.",
+      "korean_phrase": "빠른 토끼가 개에게서 도망쳤습니다.",
+      "expressions": [
+        "Be quick.",
+        "Quick thinking helps."
+      ],
+      "korean_expressions": [
+        "빨리 하세요.",
+        "빠른 사고가 도움이 됩니다."
+      ]
+    },
+    {
+      "word": "조용한",
+      "meaning": "Making little or no noise",
+      "phrase": "Please be quiet during the library study time.",
+      "korean_phrase": "도서관 학습 시간에는 조용히 해주세요.",
+      "expressions": [
+        "Stay quiet.",
+        "Quiet places help concentration."
+      ],
+      "korean_expressions": [
+        "조용히 하세요.",
+        "조용한 장소는 집중에 도움이 됩니다."
+      ]
+    },
+    {
+      "word": "공정한",
+      "meaning": "Treating everyone equally",
+      "phrase": "The fair teacher gives everyone equal chances.",
+      "korean_phrase": "공정한 선생님은 모든 사람에게 평등한 기회를 줍니다.",
+      "expressions": [
+        "Be fair to everyone.",
+        "Fair rules apply equally."
+      ],
+      "korean_expressions": [
+        "모든 사람에게 공정하세요.",
+        "공정한 규칙은 평등하게 적용됩니다."
+      ]
+    }
+  ],
+  "science": [
+    {
+      "word": "동물",
+      "meaning": "A living creature that can move and eat",
+      "phrase": "The zoo has many different animals from around the world.",
+      "korean_phrase": "동물원에는 전 세계의 다양한 동물들이 있습니다.",
+      "expressions": [
+        "This is animal.",
+        "I like animal."
+      ],
+      "korean_expressions": [
+        "이것은 animal입니다.",
+        "나는 animal를 좋아합니다."
+      ]
+    },
+    {
+      "word": "식물",
+      "meaning": "A living thing that grows in soil",
+      "phrase": "Water the plant every morning to keep it healthy.",
+      "korean_phrase": "식물을 건강하게 유지하기 위해 매일 아침 물을 주세요.",
+      "expressions": [
+        "This is plant.",
+        "I like plant."
+      ],
+      "korean_expressions": [
+        "이것은 plant입니다.",
+        "나는 plant를 좋아합니다."
+      ]
+    },
+    {
+      "word": "물",
+      "meaning": "Clear liquid that falls as rain",
+      "phrase": "Drink plenty of water to stay healthy.",
+      "korean_phrase": "건강을 유지하기 위해 충분한 물을 마시세요.",
+      "expressions": [
+        "This is water.",
+        "I like water."
+      ],
+      "korean_expressions": [
+        "이것은 water입니다.",
+        "나는 water를 좋아합니다."
+      ]
+    },
+    {
+      "word": "에너지",
+      "meaning": "Power used to make things work",
+      "phrase": "Solar panels collect energy from the sun.",
+      "korean_phrase": "태양광 패널은 태양으로부터 에너지를 수집합니다.",
+      "expressions": [
+        "This is energy.",
+        "I like energy."
+      ],
+      "korean_expressions": [
+        "이것은 energy입니다.",
+        "나는 energy를 좋아합니다."
+      ]
+    },
+    {
+      "word": "자연",
+      "meaning": "The physical world including plants and animals",
+      "phrase": "Spending time in nature helps reduce stress.",
+      "korean_phrase": "자연에서 시간을 보내는 것은 스트레스를 줄이는 데 도움이 됩니다.",
+      "expressions": [
+        "This is nature.",
+        "I like nature."
+      ],
+      "korean_expressions": [
+        "이것은 nature입니다.",
+        "나는 nature를 좋아합니다."
+      ]
+    },
+    {
+      "word": "날씨",
+      "meaning": "Conditions outside like rain or sunshine",
+      "phrase": "Check the weather before planning outdoor activities.",
+      "korean_phrase": "Check the weather before planning outdoor activities.",
+      "expressions": [
+        "The weather is nice today.",
+        "Check the weather forecast."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Check the weather forecast."
+      ]
+    },
+    {
+      "word": "기후",
+      "meaning": "The usual weather in a place",
+      "phrase": "The climate here is warm and sunny most of the year.",
+      "korean_phrase": "The climate here is warm and sunny most of the year.",
+      "expressions": [
+        "The climate is pleasant.",
+        "Climate affects agriculture."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Climate affects agriculture."
+      ]
+    },
+    {
+      "word": "바다",
+      "meaning": "Very large area of salt water",
+      "phrase": "The Pacific Ocean is the largest ocean on Earth.",
+      "korean_phrase": "The Pacific Ocean is the largest ocean on Earth.",
+      "expressions": [
+        "The ocean is vast.",
+        "Swim in the ocean."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Swim in the ocean."
+      ]
+    },
+    {
+      "word": "숲",
+      "meaning": "Large area covered with trees",
+      "phrase": "Many wild animals live in the forest.",
+      "korean_phrase": "Many wild animals live in the forest.",
+      "expressions": [
+        "The forest is green.",
+        "Walk through the forest."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Walk through the forest."
+      ]
+    },
+    {
+      "word": "산",
+      "meaning": "Very high area of land",
+      "phrase": "We climbed the mountain to see the beautiful view.",
+      "korean_phrase": "We climbed the mountain to see the beautiful view.",
+      "expressions": [
+        "The mountain is tall.",
+        "Climb the mountain."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Climb the mountain."
+      ]
+    },
+    {
+      "word": "강",
+      "meaning": "Large stream of water flowing to the sea",
+      "phrase": "The river flows through the center of our city.",
+      "korean_phrase": "The river flows through the center of our city.",
+      "expressions": [
+        "The river flows gently.",
+        "Cross the river carefully."
+      ],
+      "korean_expressions": [
+        "The river flows gently.",
+        "Cross the river carefully."
+      ]
+    },
+    {
+      "word": "지구",
+      "meaning": "The planet we live on",
+      "phrase": "Earth is the only planet known to have life.",
+      "korean_phrase": "Earth is the only planet known to have life.",
+      "expressions": [
+        "Earth is beautiful.",
+        "Take care of Earth."
+      ],
+      "korean_expressions": [
+        "Earth is beautiful.",
+        "Take care of Earth."
+      ]
+    },
+    {
+      "word": "우주",
+      "meaning": "The area beyond Earth where stars exist",
+      "phrase": "Astronauts travel to space in rockets.",
+      "korean_phrase": "Astronauts travel to space in rockets.",
+      "expressions": [
+        "Space is very big.",
+        "Astronauts travel to space."
+      ],
+      "korean_expressions": [
+        "Space is very big.",
+        "Astronauts travel to space."
+      ]
+    },
+    {
+      "word": "과학",
+      "meaning": "Study of the natural world",
+      "phrase": "Science helps us understand how things work.",
+      "korean_phrase": "Science helps us understand how things work.",
+      "expressions": [
+        "I love science class.",
+        "Science explains many things."
+      ],
+      "korean_expressions": [
+        "I love science class.",
+        "Science explains many things."
+      ]
+    },
+    {
+      "word": "건강",
+      "meaning": "Being free from illness",
+      "phrase": "Exercise and good food are important for health.",
+      "korean_phrase": "Exercise and good food are important for health.",
+      "expressions": [
+        "Health comes first.",
+        "Good health is wealth."
+      ],
+      "korean_expressions": [
+        "건강이 우선입니다.",
+        "좋은 건강이 재산입니다."
+      ]
+    },
+    {
+      "word": "약",
+      "meaning": "Treatment used to cure illness",
+      "phrase": "Take your medicine three times a day.",
+      "korean_phrase": "Take your medicine three times a day.",
+      "expressions": [
+        "Medicine heals illness.",
+        "Take medicine as directed."
+      ],
+      "korean_expressions": [
+        "Medicine heals illness.",
+        "Take medicine as directed."
+      ]
+    },
+    {
+      "word": "의사",
+      "meaning": "Person who treats sick people",
+      "phrase": "Visit the doctor if you feel unwell.",
+      "korean_phrase": "Visit the doctor if you feel unwell.",
+      "expressions": [
+        "The doctor helps people.",
+        "Visit your doctor regularly."
+      ],
+      "korean_expressions": [
+        "의사는 사람들을 돕습니다.",
+        "정기적으로 의사를 찾아가세요."
+      ]
+    },
+    {
+      "word": "환경",
+      "meaning": "The natural world around us",
+      "phrase": "We must protect the environment for future generations.",
+      "korean_phrase": "We must protect the environment for future generations.",
+      "expressions": [
+        "Protect the environment.",
+        "The environment is changing."
+      ],
+      "korean_expressions": [
+        "Protect the environment.",
+        "그것은 좋습니다."
+      ]
+    },
+    {
+      "word": "온도",
+      "meaning": "How hot or cold something is",
+      "phrase": "The temperature today is perfect for swimming.",
+      "korean_phrase": "The temperature today is perfect for swimming.",
+      "expressions": [
+        "The temperature is hot.",
+        "Check the water temperature."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Check the water temperature."
+      ]
+    },
+    {
+      "word": "실험",
+      "meaning": "Test done to learn something new",
+      "phrase": "We did a science experiment in class today.",
+      "korean_phrase": "We did a science experiment in class today.",
+      "expressions": [
+        "We did an experiment.",
+        "The experiment was fun."
+      ],
+      "korean_expressions": [
+        "We did an experiment.",
+        "The experiment was fun."
+      ]
+    },
+    {
+      "word": "발견",
+      "meaning": "Finding something new",
+      "phrase": "The discovery of electricity changed the world.",
+      "korean_phrase": "The discovery of electricity changed the world.",
+      "expressions": [
+        "What a great discovery!",
+        "Scientists make discoveries."
+      ],
+      "korean_expressions": [
+        "What a great discovery!",
+        "Scientists make discoveries."
+      ]
+    },
+    {
+      "word": "발명",
+      "meaning": "Something created for first time",
+      "phrase": "The invention of the wheel helped transportation.",
+      "korean_phrase": "The invention of the wheel helped transportation.",
+      "expressions": [
+        "That's a useful invention.",
+        "Inventions make life easier."
+      ],
+      "korean_expressions": [
+        "That's a useful invention.",
+        "Inventions make life easier."
+      ]
+    },
+    {
+      "word": "태양의",
+      "meaning": "Related to the sun",
+      "phrase": "Solar panels use sunlight to create electricity.",
+      "korean_phrase": "Solar panels use sunlight to create electricity.",
+      "expressions": [
+        "Solar energy is clean.",
+        "Use solar power."
+      ],
+      "korean_expressions": [
+        "Solar energy is clean.",
+        "Use solar power."
+      ]
+    },
+    {
+      "word": "세포",
+      "meaning": "Smallest unit of living things",
+      "phrase": "All plants and animals are made of cells.",
+      "korean_phrase": "All plants and animals are made of cells.",
+      "expressions": [
+        "Cells are very small.",
+        "Every cell has function."
+      ],
+      "korean_expressions": [
+        "Cells are very small.",
+        "Every cell has function."
+      ]
+    },
+    {
+      "word": "뼈",
+      "meaning": "Hard parts inside body",
+      "phrase": "Strong bones support your body weight.",
+      "korean_phrase": "Strong bones support your body weight.",
+      "expressions": [
+        "Exercise strengthens bones.",
+        "Bones protect organs."
+      ],
+      "korean_expressions": [
+        "Exercise strengthens bones.",
+        "Bones protect organs."
+      ]
+    },
+    {
+      "word": "피",
+      "meaning": "Red liquid that flows in body",
+      "phrase": "Blood carries oxygen to all body parts.",
+      "korean_phrase": "Blood carries oxygen to all body parts.",
+      "expressions": [
+        "Blood is important.",
+        "Heart pumps blood."
+      ],
+      "korean_expressions": [
+        "Blood is important.",
+        "Heart pumps blood."
+      ]
+    },
+    {
+      "word": "뇌",
+      "meaning": "Organ that controls thinking",
+      "phrase": "The brain controls all body functions.",
+      "korean_phrase": "The brain controls all body functions.",
+      "expressions": [
+        "Use your brain.",
+        "Brain controls everything."
+      ],
+      "korean_expressions": [
+        "Use your brain.",
+        "Brain controls everything."
+      ]
+    },
+    {
+      "word": "중력",
+      "meaning": "Force that pulls things down",
+      "phrase": "Gravity makes things fall to the ground.",
+      "korean_phrase": "Gravity makes things fall to the ground.",
+      "expressions": [
+        "Gravity pulls everything down.",
+        "Gravity keeps us grounded."
+      ],
+      "korean_expressions": [
+        "Gravity pulls everything down.",
+        "Gravity keeps us grounded."
+      ]
+    },
+    {
+      "word": "전기",
+      "meaning": "Power that makes lights work",
+      "phrase": "Electricity powers our computers and phones.",
+      "korean_phrase": "Electricity powers our computers and phones.",
+      "expressions": [
+        "Electricity is useful.",
+        "Save electricity."
+      ],
+      "korean_expressions": [
+        "Electricity is useful.",
+        "Save electricity."
+      ]
+    },
+    {
+      "word": "화학물질",
+      "meaning": "Substance used in science",
+      "phrase": "Water is a chemical made of hydrogen and oxygen.",
+      "korean_phrase": "Water is a chemical made of hydrogen and oxygen.",
+      "expressions": [
+        "Chemicals can be dangerous.",
+        "Handle chemicals carefully."
+      ],
+      "korean_expressions": [
+        "Chemicals can be dangerous.",
+        "Handle chemicals carefully."
+      ]
+    }
+  ],
+  "business": [
+    {
+      "word": "일",
+      "meaning": "Activity done to earn money",
+      "phrase": "I work at a local restaurant on weekends.",
+      "korean_phrase": "나는 주말에 지역 레스토랑에서 일합니다.",
+      "expressions": [
+        "I work every day.",
+        "Work can be fun."
+      ],
+      "korean_expressions": [
+        "나는 매일 일합니다.",
+        "일은 재미있을 수 있습니다."
+      ]
+    },
+    {
+      "word": "직업",
+      "meaning": "Regular paid employment",
+      "phrase": "She found a good job at the bank.",
+      "korean_phrase": "그녀는 은행에서 좋은 직업을 찾았습니다.",
+      "expressions": [
+        "I need a job.",
+        "My job is interesting."
+      ],
+      "korean_expressions": [
+        "나는 직업이 필요합니다.",
+        "내 직업은 흥미롭습니다."
+      ]
+    },
+    {
+      "word": "돈",
+      "meaning": "Coins and notes used to buy things",
+      "phrase": "Save your money for something special.",
+      "korean_phrase": "특별한 것을 위해 돈을 저축하세요.",
+      "expressions": [
+        "Save your money.",
+        "Money can't buy happiness."
+      ],
+      "korean_expressions": [
+        "돈을 저축하세요.",
+        "돈으로 행복을 살 수 없습니다."
+      ]
+    },
+    {
+      "word": "사업",
+      "meaning": "Activity of buying and selling",
+      "phrase": "My uncle owns a small business in town.",
+      "korean_phrase": "삼촌은 마을에서 작은 사업을 운영합니다.",
+      "expressions": [
+        "Business is growing.",
+        "Start your own business."
+      ],
+      "korean_expressions": [
+        "사업이 성장하고 있습니다.",
+        "자신만의 사업을 시작하세요."
+      ]
+    },
+    {
+      "word": "회사",
+      "meaning": "Organization that sells goods or services",
+      "phrase": "The company employs over 100 people.",
+      "korean_phrase": "회사는 100명 이상의 직원을 고용하고 있습니다.",
+      "expressions": [
+        "The company is hiring.",
+        "Our company is successful."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "우리 회사는 성공적입니다."
+      ]
+    },
+    {
+      "word": "고객",
+      "meaning": "Person who buys goods or services",
+      "phrase": "Good customer service is very important.",
+      "korean_phrase": "좋은 고객 서비스는 매우 중요합니다.",
+      "expressions": [
+        "The customer is happy.",
+        "Help every customer."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "모든 고객을 도우세요."
+      ]
+    },
+    {
+      "word": "제품",
+      "meaning": "Something made to be sold",
+      "phrase": "This product is very popular with young people.",
+      "korean_phrase": "이 제품은 젊은 사람들에게 매우 인기가 있습니다.",
+      "expressions": [
+        "This product is great.",
+        "We sell quality products."
+      ],
+      "korean_expressions": [
+        "This product is great.",
+        "We sell quality products."
+      ]
+    },
+    {
+      "word": "서비스",
+      "meaning": "Work done to help customers",
+      "phrase": "The hotel provides excellent room service.",
+      "korean_phrase": "호텔은 훌륭한 룸서비스를 제공합니다.",
+      "expressions": [
+        "Good service matters.",
+        "The service was excellent."
+      ],
+      "korean_expressions": [
+        "Good service matters.",
+        "The service was excellent."
+      ]
+    },
+    {
+      "word": "가격",
+      "meaning": "Amount of money something costs",
+      "phrase": "The price of gas has increased this month.",
+      "korean_phrase": "이번 달 가스 가격이 올랐습니다.",
+      "expressions": [
+        "The price is fair.",
+        "What's the price?"
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "What's the price?"
+      ]
+    },
+    {
+      "word": "판매",
+      "meaning": "Act of selling something",
+      "phrase": "The store is having a big sale this weekend.",
+      "korean_phrase": "이번 주말에 가게에서 큰 세일을 합니다.",
+      "expressions": [
+        "There's a big sale.",
+        "The sale starts tomorrow."
+      ],
+      "korean_expressions": [
+        "There's a big sale.",
+        "The sale starts tomorrow."
+      ]
+    },
+    {
+      "word": "이익",
+      "meaning": "Money gained from business",
+      "phrase": "The company made a good profit last year.",
+      "korean_phrase": "The company made a good profit last year.",
+      "expressions": [
+        "The profit increased.",
+        "We made a good profit."
+      ],
+      "korean_expressions": [
+        "The profit increased.",
+        "We made a good profit."
+      ]
+    },
+    {
+      "word": "시장",
+      "meaning": "Place where things are bought and sold",
+      "phrase": "We buy fresh vegetables at the local market.",
+      "korean_phrase": "We buy fresh vegetables at the local market.",
+      "expressions": [
+        "Go to the market.",
+        "The market is busy."
+      ],
+      "korean_expressions": [
+        "Go to the market.",
+        "그것은 좋습니다."
+      ]
+    },
+    {
+      "word": "사무실",
+      "meaning": "Place where business work is done",
+      "phrase": "My office is on the third floor of the building.",
+      "korean_phrase": "My office is on the third floor of the building.",
+      "expressions": [
+        "I work in an office.",
+        "The office is closed."
+      ],
+      "korean_expressions": [
+        "I work in an office.",
+        "그것은 좋습니다."
+      ]
+    },
+    {
+      "word": "관리자",
+      "meaning": "Person who controls a business or team",
+      "phrase": "The manager held a meeting with all employees.",
+      "korean_phrase": "The manager held a meeting with all employees.",
+      "expressions": [
+        "The manager is nice.",
+        "Ask the manager."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Ask the manager."
+      ]
+    },
+    {
+      "word": "직원",
+      "meaning": "Person who works for a company",
+      "phrase": "Every employee received a bonus this Christmas.",
+      "korean_phrase": "Every employee received a bonus this Christmas.",
+      "expressions": [
+        "Every employee matters.",
+        "She's a good employee."
+      ],
+      "korean_expressions": [
+        "Every employee matters.",
+        "She's a good employee."
+      ]
+    },
+    {
+      "word": "회의",
+      "meaning": "Gathering of people to discuss business",
+      "phrase": "We have a team meeting every Monday morning.",
+      "korean_phrase": "We have a team meeting every Monday morning.",
+      "expressions": [
+        "We have a meeting.",
+        "The meeting starts soon."
+      ],
+      "korean_expressions": [
+        "We have a meeting.",
+        "The meeting starts soon."
+      ]
+    },
+    {
+      "word": "계약",
+      "meaning": "Legal agreement between people or companies",
+      "phrase": "Read the contract carefully before signing it.",
+      "korean_phrase": "Read the contract carefully before signing it.",
+      "expressions": [
+        "Sign the contract.",
+        "Read the contract carefully."
+      ],
+      "korean_expressions": [
+        "Sign the contract.",
+        "Read the contract carefully."
+      ]
+    },
+    {
+      "word": "투자",
+      "meaning": "Money put into something to make profit",
+      "phrase": "Real estate can be a good investment.",
+      "korean_phrase": "Real estate can be a good investment.",
+      "expressions": [
+        "This is a good investment.",
+        "Investment takes patience."
+      ],
+      "korean_expressions": [
+        "이것은 a good investment입니다.",
+        "Investment takes patience."
+      ]
+    },
+    {
+      "word": "예산",
+      "meaning": "Plan for spending money",
+      "phrase": "Make a monthly budget to control your expenses.",
+      "korean_phrase": "Make a monthly budget to control your expenses.",
+      "expressions": [
+        "Make a budget.",
+        "Stay within your budget."
+      ],
+      "korean_expressions": [
+        "Make a budget.",
+        "Stay within your budget."
+      ]
+    },
+    {
+      "word": "성공",
+      "meaning": "Achievement of desired goals",
+      "phrase": "Hard work and dedication lead to success.",
+      "korean_phrase": "Hard work and dedication lead to success.",
+      "expressions": [
+        "Success takes time.",
+        "Celebrate your success."
+      ],
+      "korean_expressions": [
+        "Success takes time.",
+        "Celebrate your success."
+      ]
+    },
+    {
+      "word": "목표",
+      "meaning": "Something you want to achieve",
+      "phrase": "Set a goal and work hard to reach it.",
+      "korean_phrase": "Set a goal and work hard to reach it.",
+      "expressions": [
+        "Reach your goal.",
+        "Goals give direction."
+      ],
+      "korean_expressions": [
+        "Reach your goal.",
+        "Goals give direction."
+      ]
+    },
+    {
+      "word": "계획",
+      "meaning": "Idea about what to do",
+      "phrase": "Make a plan before starting any project.",
+      "korean_phrase": "Make a plan before starting any project.",
+      "expressions": [
+        "Follow the plan.",
+        "Good plans succeed."
+      ],
+      "korean_expressions": [
+        "Follow the plan.",
+        "Good plans succeed."
+      ]
+    },
+    {
+      "word": "팀",
+      "meaning": "Group working together",
+      "phrase": "Our team works together to finish projects.",
+      "korean_phrase": "Our team works together to finish projects.",
+      "expressions": [
+        "Join the team.",
+        "Teamwork makes success."
+      ],
+      "korean_expressions": [
+        "Join the team.",
+        "Teamwork makes success."
+      ]
+    },
+    {
+      "word": "아이디어",
+      "meaning": "Thought about something new",
+      "phrase": "She had a great idea for the school project.",
+      "korean_phrase": "She had a great idea for the school project.",
+      "expressions": [
+        "That's a good idea.",
+        "Ideas create solutions."
+      ],
+      "korean_expressions": [
+        "That's a good idea.",
+        "Ideas create solutions."
+      ]
+    },
+    {
+      "word": "가게",
+      "meaning": "Place where things are sold",
+      "phrase": "The grocery store sells fresh food daily.",
+      "korean_phrase": "The grocery store sells fresh food daily.",
+      "expressions": [
+        "Go to the store.",
+        "The store is open."
+      ],
+      "korean_expressions": [
+        "Go to the store.",
+        "그것은 좋습니다."
+      ]
+    },
+    {
+      "word": "팔다",
+      "meaning": "Give something for money",
+      "phrase": "They sell books at the school bookstore.",
+      "korean_phrase": "They sell books at the school bookstore.",
+      "expressions": [
+        "Sell your old toys.",
+        "Stores sell products."
+      ],
+      "korean_expressions": [
+        "Sell your old toys.",
+        "Stores sell products."
+      ]
+    },
+    {
+      "word": "사다",
+      "meaning": "Get something by paying money",
+      "phrase": "We buy groceries every Saturday morning.",
+      "korean_phrase": "We buy groceries every Saturday morning.",
+      "expressions": [
+        "Buy what you need.",
+        "Don't buy unnecessary things."
+      ],
+      "korean_expressions": [
+        "Buy what you need.",
+        "Don't buy unnecessary things."
+      ]
+    },
+    {
+      "word": "저축하다",
+      "meaning": "Keep money for future use",
+      "phrase": "Save some money each week for emergencies.",
+      "korean_phrase": "Save some money each week for emergencies.",
+      "expressions": [
+        "Save your money.",
+        "Saving is important."
+      ],
+      "korean_expressions": [
+        "돈을 저축하세요.",
+        "Saving is important."
+      ]
+    },
+    {
+      "word": "쓰다",
+      "meaning": "Use money to buy things",
+      "phrase": "Don't spend all your money on games.",
+      "korean_phrase": "Don't spend all your money on games.",
+      "expressions": [
+        "Spend money wisely.",
+        "Think before you spend."
+      ],
+      "korean_expressions": [
+        "Spend money wisely.",
+        "Think before you spend."
+      ]
+    },
+    {
+      "word": "벌다",
+      "meaning": "Get money by working",
+      "phrase": "Students can earn money by helping neighbors.",
+      "korean_phrase": "Students can earn money by helping neighbors.",
+      "expressions": [
+        "Earn your money.",
+        "Work hard to earn."
+      ],
+      "korean_expressions": [
+        "Earn your money.",
+        "Work hard to earn."
+      ]
+    }
+  ],
+  "literature": [
+    {
+      "word": "이야기",
+      "meaning": "Description of events, real or imaginary",
+      "phrase": "Grandma told us an interesting story about her childhood.",
+      "korean_phrase": "할머니가 어린 시절에 대한 흥미로운 이야기를 들려주셨습니다.",
+      "expressions": [
+        "Tell me a story.",
+        "That's a great story."
+      ],
+      "korean_expressions": [
+        "이야기를 들려주세요.",
+        "좋은 이야기네요."
+      ]
+    },
+    {
+      "word": "책",
+      "meaning": "Set of pages with writing or pictures",
+      "phrase": "I borrowed a book from the library yesterday.",
+      "korean_phrase": "어제 도서관에서 책을 빌렸습니다.",
+      "expressions": [
+        "I love this book.",
+        "Read a good book."
+      ],
+      "korean_expressions": [
+        "나는 이 책을 좋아합니다.",
+        "좋은 책을 읽으세요."
+      ]
+    },
+    {
+      "word": "작가",
+      "meaning": "Person who writes books or stories",
+      "phrase": "The author signed copies of her new book.",
+      "korean_phrase": "작가가 새 책의 사본에 사인을 해주었습니다.",
+      "expressions": [
+        "The author is famous.",
+        "Who's your favorite author?"
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "가장 좋아하는 작가는 누구인가요?"
+      ]
+    },
+    {
+      "word": "등장인물",
+      "meaning": "Person in a story or play",
+      "phrase": "Harry Potter is the main character in the series.",
+      "korean_phrase": "해리 포터는 이 시리즈의 주인공입니다.",
+      "expressions": [
+        "The main character is brave.",
+        "I like this character."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "나는 this character를 좋아합니다."
+      ]
+    },
+    {
+      "word": "영웅",
+      "meaning": "Main good character in a story",
+      "phrase": "The hero saved the village from danger.",
+      "korean_phrase": "영웅이 위험으로부터 마을을 구했습니다.",
+      "expressions": [
+        "The hero saves everyone.",
+        "You're my hero."
+      ],
+      "korean_expressions": [
+        "The hero saves everyone.",
+        "You're my hero."
+      ]
+    },
+    {
+      "word": "모험",
+      "meaning": "Exciting and dangerous experience",
+      "phrase": "The book describes an adventure in the jungle.",
+      "korean_phrase": "The book describes an adventure in the jungle.",
+      "expressions": [
+        "What an adventure!",
+        "Life is an adventure."
+      ],
+      "korean_expressions": [
+        "What an adventure!",
+        "Life is an adventure."
+      ]
+    },
+    {
+      "word": "미스터리",
+      "meaning": "Something that is difficult to understand",
+      "phrase": "The detective solved the mystery of the missing jewels.",
+      "korean_phrase": "The detective solved the mystery of the missing jewels.",
+      "expressions": [
+        "It's a mystery.",
+        "Solve the mystery."
+      ],
+      "korean_expressions": [
+        "It's a mystery.",
+        "Solve the mystery."
+      ]
+    },
+    {
+      "word": "소설",
+      "meaning": "Stories that are made up, not real",
+      "phrase": "I enjoy reading fiction more than factual books.",
+      "korean_phrase": "I enjoy reading fiction more than factual books.",
+      "expressions": [
+        "I read fiction books.",
+        "Fiction can be exciting."
+      ],
+      "korean_expressions": [
+        "I read fiction books.",
+        "Fiction can be exciting."
+      ]
+    },
+    {
+      "word": "시",
+      "meaning": "Writing that expresses feelings in verse",
+      "phrase": "She writes beautiful poetry about nature.",
+      "korean_phrase": "She writes beautiful poetry about nature.",
+      "expressions": [
+        "Poetry is beautiful.",
+        "Write some poetry."
+      ],
+      "korean_expressions": [
+        "Poetry is beautiful.",
+        "Write some poetry."
+      ]
+    },
+    {
+      "word": "소설",
+      "meaning": "Long story book",
+      "phrase": "This novel took me two weeks to finish reading.",
+      "korean_phrase": "This novel took me two weeks to finish reading.",
+      "expressions": [
+        "This novel is long.",
+        "I finished the novel."
+      ],
+      "korean_expressions": [
+        "This novel is long.",
+        "I finished the novel."
+      ]
+    },
+    {
+      "word": "드라마",
+      "meaning": "Play performed in theater",
+      "phrase": "The school is performing a drama next month.",
+      "korean_phrase": "The school is performing a drama next month.",
+      "expressions": [
+        "The drama was moving.",
+        "Life is full of drama."
+      ],
+      "korean_expressions": [
+        "The drama was moving.",
+        "Life is full of drama."
+      ]
+    },
+    {
+      "word": "코미디",
+      "meaning": "Funny play or story",
+      "phrase": "We watched a comedy that made everyone laugh.",
+      "korean_phrase": "We watched a comedy that made everyone laugh.",
+      "expressions": [
+        "I love comedy shows.",
+        "That comedy was funny."
+      ],
+      "korean_expressions": [
+        "I love comedy shows.",
+        "That comedy was funny."
+      ]
+    },
+    {
+      "word": "시",
+      "meaning": "Piece of writing in verse",
+      "phrase": "She recited a poem about friendship.",
+      "korean_phrase": "She recited a poem about friendship.",
+      "expressions": [
+        "Recite a poem.",
+        "Write a short poem."
+      ],
+      "korean_expressions": [
+        "Recite a poem.",
+        "Write a short poem."
+      ]
+    },
+    {
+      "word": "읽기",
+      "meaning": "Activity of looking at and understanding words",
+      "phrase": "Reading books improves your vocabulary.",
+      "korean_phrase": "Reading books improves your vocabulary.",
+      "expressions": [
+        "Reading is fun.",
+        "I enjoy reading."
+      ],
+      "korean_expressions": [
+        "Reading is fun.",
+        "I enjoy reading."
+      ]
+    },
+    {
+      "word": "쓰기",
+      "meaning": "Activity of creating text",
+      "phrase": "Good writing takes practice and patience.",
+      "korean_phrase": "Good writing takes practice and patience.",
+      "expressions": [
+        "Writing takes practice.",
+        "Good writing is clear."
+      ],
+      "korean_expressions": [
+        "Writing takes practice.",
+        "Good writing is clear."
+      ]
+    },
+    {
+      "word": "언어",
+      "meaning": "System of communication using words",
+      "phrase": "English is spoken as a second language worldwide.",
+      "korean_phrase": "English is spoken as a second language worldwide.",
+      "expressions": [
+        "Learn a new language.",
+        "Language connects people."
+      ],
+      "korean_expressions": [
+        "Learn a new language.",
+        "Language connects people."
+      ]
+    },
+    {
+      "word": "단어",
+      "meaning": "Single unit of language",
+      "phrase": "Learn a new word every day to improve your English.",
+      "korean_phrase": "Learn a new word every day to improve your English.",
+      "expressions": [
+        "That's a new word.",
+        "Choose your words carefully."
+      ],
+      "korean_expressions": [
+        "That's a new word.",
+        "Choose your words carefully."
+      ]
+    },
+    {
+      "word": "문장",
+      "meaning": "Group of words expressing a complete thought",
+      "phrase": "Write a sentence using your new vocabulary word.",
+      "korean_phrase": "Write a sentence using your new vocabulary word.",
+      "expressions": [
+        "Write a sentence.",
+        "That's a long sentence."
+      ],
+      "korean_expressions": [
+        "Write a sentence.",
+        "That's a long sentence."
+      ]
+    },
+    {
+      "word": "페이지",
+      "meaning": "One side of a sheet in a book",
+      "phrase": "Turn to page 50 to continue the story.",
+      "korean_phrase": "Turn to page 50 to continue the story.",
+      "expressions": [
+        "Turn the page.",
+        "Read page ten."
+      ],
+      "korean_expressions": [
+        "Turn the page.",
+        "Read page ten."
+      ]
+    },
+    {
+      "word": "장",
+      "meaning": "Section of a book",
+      "phrase": "Each chapter in this book tells a different story.",
+      "korean_phrase": "Each chapter in this book tells a different story.",
+      "expressions": [
+        "This chapter is interesting.",
+        "Start the next chapter."
+      ],
+      "korean_expressions": [
+        "This chapter is interesting.",
+        "Start the next chapter."
+      ]
+    },
+    {
+      "word": "도서관",
+      "meaning": "Place with many books to read",
+      "phrase": "The library is quiet place for reading and study.",
+      "korean_phrase": "The library is quiet place for reading and study.",
+      "expressions": [
+        "Go to the library.",
+        "The library has books."
+      ],
+      "korean_expressions": [
+        "Go to the library.",
+        "The library has books."
+      ]
+    },
+    {
+      "word": "동화",
+      "meaning": "Magical story for children",
+      "phrase": "Cinderella is a famous fairy tale loved by children.",
+      "korean_phrase": "Cinderella is a famous fairy tale loved by children.",
+      "expressions": [
+        "Read fairy tales.",
+        "Fairy tales teach lessons."
+      ],
+      "korean_expressions": [
+        "Read fairy tales.",
+        "Fairy tales teach lessons."
+      ]
+    },
+    {
+      "word": "교훈",
+      "meaning": "Something to be learned",
+      "phrase": "Every story teaches us an important lesson.",
+      "korean_phrase": "Every story teaches us an important lesson.",
+      "expressions": [
+        "Learn the lesson.",
+        "Lessons help us grow."
+      ],
+      "korean_expressions": [
+        "Learn the lesson.",
+        "Lessons help us grow."
+      ]
+    },
+    {
+      "word": "정보",
+      "meaning": "Facts about something",
+      "phrase": "Books contain lots of useful information.",
+      "korean_phrase": "Books contain lots of useful information.",
+      "expressions": [
+        "Find good information.",
+        "Information helps learning."
+      ],
+      "korean_expressions": [
+        "Find good information.",
+        "Information helps learning."
+      ]
+    },
+    {
+      "word": "지식",
+      "meaning": "Things you know and understand",
+      "phrase": "Reading books increases your knowledge about world.",
+      "korean_phrase": "Reading books increases your knowledge about world.",
+      "expressions": [
+        "Gain more knowledge.",
+        "Knowledge is power."
+      ],
+      "korean_expressions": [
+        "Gain more knowledge.",
+        "Knowledge is power."
+      ]
+    },
+    {
+      "word": "상상력",
+      "meaning": "Ability to create pictures in mind",
+      "phrase": "Use your imagination to create wonderful stories.",
+      "korean_phrase": "Use your imagination to create wonderful stories.",
+      "expressions": [
+        "Use your imagination.",
+        "Imagination creates magic."
+      ],
+      "korean_expressions": [
+        "Use your imagination.",
+        "Imagination creates magic."
+      ]
+    },
+    {
+      "word": "좋아하는",
+      "meaning": "Thing you like most",
+      "phrase": "What is your favorite book to read?",
+      "korean_phrase": "What is your favorite book to read?",
+      "expressions": [
+        "That's my favorite.",
+        "Everyone has favorites."
+      ],
+      "korean_expressions": [
+        "That's my favorite.",
+        "Everyone has favorites."
+      ]
+    },
+    {
+      "word": "잡지",
+      "meaning": "Book with pictures and short articles",
+      "phrase": "The magazine has interesting articles and photos.",
+      "korean_phrase": "The magazine has interesting articles and photos.",
+      "expressions": [
+        "Read the magazine.",
+        "Magazines are colorful."
+      ],
+      "korean_expressions": [
+        "Read the magazine.",
+        "Magazines are colorful."
+      ]
+    },
+    {
+      "word": "신문",
+      "meaning": "Daily paper with news",
+      "phrase": "The newspaper tells us what happens daily.",
+      "korean_phrase": "The newspaper tells us what happens daily.",
+      "expressions": [
+        "Read the newspaper.",
+        "Newspapers give news."
+      ],
+      "korean_expressions": [
+        "Read the newspaper.",
+        "Newspapers give news."
+      ]
+    },
+    {
+      "word": "사전",
+      "meaning": "Book explaining word meanings",
+      "phrase": "Use dictionary to find meanings of new words.",
+      "korean_phrase": "Use dictionary to find meanings of new words.",
+      "expressions": [
+        "Check the dictionary.",
+        "Dictionary explains words."
+      ],
+      "korean_expressions": [
+        "Check the dictionary.",
+        "Dictionary explains words."
+      ]
+    }
+  ],
+  "travel": [
+    {
+      "word": "여행",
+      "meaning": "Go from one place to another",
+      "phrase": "Many people travel during summer vacation.",
+      "korean_phrase": "많은 사람들이 여름 휴가 때 여행을 합니다.",
+      "expressions": [
+        "I love to travel.",
+        "Travel broadens the mind."
+      ],
+      "korean_expressions": [
+        "나는 여행을 좋아합니다.",
+        "여행은 마음을 넓혀줍니다."
+      ]
+    },
+    {
+      "word": "여행",
+      "meaning": "Journey to a place and back",
+      "phrase": "We're planning a trip to the mountains next weekend.",
+      "korean_phrase": "다음 주말에 산으로 여행을 계획하고 있습니다.",
+      "expressions": [
+        "Plan a trip.",
+        "The trip was amazing."
+      ],
+      "korean_expressions": [
+        "여행을 계획하세요.",
+        "여행이 놀라웠습니다."
+      ]
+    },
+    {
+      "word": "여정",
+      "meaning": "Act of traveling from one place to another",
+      "phrase": "The journey by train was comfortable and scenic.",
+      "korean_phrase": "기차 여행은 편안하고 경치가 좋았습니다.",
+      "expressions": [
+        "The journey begins.",
+        "What a long journey."
+      ],
+      "korean_expressions": [
+        "The journey begins.",
+        "What a long journey."
+      ]
+    },
+    {
+      "word": "휴가",
+      "meaning": "Time spent away from work for rest",
+      "phrase": "We had a wonderful vacation at the beach.",
+      "korean_phrase": "해변에서 멋진 휴가를 보냈습니다.",
+      "expressions": [
+        "I need a vacation.",
+        "Vacation time is here."
+      ],
+      "korean_expressions": [
+        "나는 휴가가 필요합니다.",
+        "휴가 시간이 왔습니다."
+      ]
+    },
+    {
+      "word": "호텔",
+      "meaning": "Building where travelers can stay",
+      "phrase": "The hotel room had a beautiful view of the ocean.",
+      "korean_phrase": "호텔 방에서 바다의 아름다운 경치가 보였습니다.",
+      "expressions": [
+        "The hotel is comfortable.",
+        "Book a hotel room."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Book a hotel room."
+      ]
+    },
+    {
+      "word": "공항",
+      "meaning": "Place where airplanes take off and land",
+      "phrase": "Arrive at the airport two hours before your flight.",
+      "korean_phrase": "Arrive at the airport two hours before your flight.",
+      "expressions": [
+        "Meet me at the airport.",
+        "The airport is busy."
+      ],
+      "korean_expressions": [
+        "Meet me at the airport.",
+        "그것은 좋습니다."
+      ]
+    },
+    {
+      "word": "비행기",
+      "meaning": "Journey by airplane",
+      "phrase": "Our flight to Paris was delayed by two hours.",
+      "korean_phrase": "Our flight to Paris was delayed by two hours.",
+      "expressions": [
+        "My flight is delayed.",
+        "Book a flight online."
+      ],
+      "korean_expressions": [
+        "My flight is delayed.",
+        "Book a flight online."
+      ]
+    },
+    {
+      "word": "표",
+      "meaning": "Paper showing you paid for travel",
+      "phrase": "Keep your ticket safe until the end of your journey.",
+      "korean_phrase": "Keep your ticket safe until the end of your journey.",
+      "expressions": [
+        "Show your ticket.",
+        "Buy a ticket now."
+      ],
+      "korean_expressions": [
+        "Show your ticket.",
+        "Buy a ticket now."
+      ]
+    },
+    {
+      "word": "여행가방",
+      "meaning": "Container for clothes when traveling",
+      "phrase": "Pack your suitcase the night before traveling.",
+      "korean_phrase": "Pack your suitcase the night before traveling.",
+      "expressions": [
+        "Pack your suitcase.",
+        "My suitcase is heavy."
+      ],
+      "korean_expressions": [
+        "Pack your suitcase.",
+        "My suitcase is heavy."
+      ]
+    },
+    {
+      "word": "관광객",
+      "meaning": "Person who visits places for pleasure",
+      "phrase": "Many tourists visit this city every summer.",
+      "korean_phrase": "Many tourists visit this city every summer.",
+      "expressions": [
+        "I'm a tourist here.",
+        "Many tourists visit here."
+      ],
+      "korean_expressions": [
+        "I'm a tourist here.",
+        "Many tourists visit here."
+      ]
+    },
+    {
+      "word": "가이드",
+      "meaning": "Person who shows tourists around",
+      "phrase": "The tour guide explained the history of the castle.",
+      "korean_phrase": "The tour guide explained the history of the castle.",
+      "expressions": [
+        "The guide knows everything.",
+        "Hire a tour guide."
+      ],
+      "korean_expressions": [
+        "The guide knows everything.",
+        "Hire a tour guide."
+      ]
+    },
+    {
+      "word": "박물관",
+      "meaning": "Building displaying historical objects",
+      "phrase": "The art museum has paintings from famous artists.",
+      "korean_phrase": "The art museum has paintings from famous artists.",
+      "expressions": [
+        "Visit the museum.",
+        "The museum is educational."
+      ],
+      "korean_expressions": [
+        "Visit the museum.",
+        "그것은 좋습니다."
+      ]
+    },
+    {
+      "word": "해변",
+      "meaning": "Sandy area beside the sea",
+      "phrase": "Children love playing in the sand at the beach.",
+      "korean_phrase": "Children love playing in the sand at the beach.",
+      "expressions": [
+        "Relax on the beach.",
+        "The beach is sandy."
+      ],
+      "korean_expressions": [
+        "Relax on the beach.",
+        "그것은 좋습니다."
+      ]
+    },
+    {
+      "word": "산",
+      "meaning": "Very high area of land",
+      "phrase": "The view from the mountain top was breathtaking.",
+      "korean_phrase": "The view from the mountain top was breathtaking.",
+      "expressions": [
+        "The mountain is tall.",
+        "Climb the mountain."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Climb the mountain."
+      ]
+    },
+    {
+      "word": "도시",
+      "meaning": "Large town with many people",
+      "phrase": "New York is a busy city that never sleeps.",
+      "korean_phrase": "New York is a busy city that never sleeps.",
+      "expressions": [
+        "The city is exciting.",
+        "I love big cities."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "I love big cities."
+      ]
+    },
+    {
+      "word": "나라",
+      "meaning": "Nation with its own government",
+      "phrase": "France is a beautiful country to visit.",
+      "korean_phrase": "France is a beautiful country to visit.",
+      "expressions": [
+        "My country is wonderful.",
+        "Visit a foreign country."
+      ],
+      "korean_expressions": [
+        "My country is wonderful.",
+        "Visit a foreign country."
+      ]
+    },
+    {
+      "word": "문화",
+      "meaning": "Way of life of a group of people",
+      "phrase": "Learning about local culture makes travel more interesting.",
+      "korean_phrase": "Learning about local culture makes travel more interesting.",
+      "expressions": [
+        "Ancient culture is rich.",
+        "Preserve our culture."
+      ],
+      "korean_expressions": [
+        "Ancient culture is rich.",
+        "Preserve our culture."
+      ]
+    },
+    {
+      "word": "음식",
+      "meaning": "Things we eat",
+      "phrase": "Try the local food when you visit new places.",
+      "korean_phrase": "Try the local food when you visit new places.",
+      "expressions": [
+        "Try local food.",
+        "The food is delicious."
+      ],
+      "korean_expressions": [
+        "Try local food.",
+        "그것은 좋습니다."
+      ]
+    },
+    {
+      "word": "언어",
+      "meaning": "Way people communicate",
+      "phrase": "Learning basic phrases in the local language is helpful.",
+      "korean_phrase": "Learning basic phrases in the local language is helpful.",
+      "expressions": [
+        "Learn a new language.",
+        "Language connects people."
+      ],
+      "korean_expressions": [
+        "Learn a new language.",
+        "Language connects people."
+      ]
+    },
+    {
+      "word": "지도",
+      "meaning": "Drawing showing where places are",
+      "phrase": "Use a map to find your way around the new city.",
+      "korean_phrase": "Use a map to find your way around the new city.",
+      "expressions": [
+        "Use a map.",
+        "The map shows directions."
+      ],
+      "korean_expressions": [
+        "Use a map.",
+        "The map shows directions."
+      ]
+    },
+    {
+      "word": "기차",
+      "meaning": "Long vehicle that travels on tracks",
+      "phrase": "The train carries many people to different cities.",
+      "korean_phrase": "The train carries many people to different cities.",
+      "expressions": [
+        "Take the train.",
+        "Trains are fast."
+      ],
+      "korean_expressions": [
+        "Take the train.",
+        "Trains are fast."
+      ]
+    },
+    {
+      "word": "버스",
+      "meaning": "Large vehicle for many passengers",
+      "phrase": "The school bus takes children to school safely.",
+      "korean_phrase": "The school bus takes children to school safely.",
+      "expressions": [
+        "Catch the bus.",
+        "The bus is coming."
+      ],
+      "korean_expressions": [
+        "Catch the bus.",
+        "그것은 좋습니다."
+      ]
+    },
+    {
+      "word": "자동차",
+      "meaning": "Vehicle for small group of people",
+      "phrase": "Our family car takes us on weekend trips.",
+      "korean_phrase": "Our family car takes us on weekend trips.",
+      "expressions": [
+        "Drive the car.",
+        "Cars need gas."
+      ],
+      "korean_expressions": [
+        "Drive the car.",
+        "Cars need gas."
+      ]
+    },
+    {
+      "word": "비행기",
+      "meaning": "Flying vehicle for long distances",
+      "phrase": "The plane flies high above the clouds.",
+      "korean_phrase": "The plane flies high above the clouds.",
+      "expressions": [
+        "Fly in plane.",
+        "Planes travel fast."
+      ],
+      "korean_expressions": [
+        "Fly in plane.",
+        "Planes travel fast."
+      ]
+    },
+    {
+      "word": "길",
+      "meaning": "Path for cars to drive on",
+      "phrase": "The road leads to the beautiful mountain lake.",
+      "korean_phrase": "The road leads to the beautiful mountain lake.",
+      "expressions": [
+        "Take this road.",
+        "The road is long."
+      ],
+      "korean_expressions": [
+        "Take this road.",
+        "그것은 좋습니다."
+      ]
+    },
+    {
+      "word": "다리",
+      "meaning": "Structure built over water or valley",
+      "phrase": "The bridge connects two sides of the river.",
+      "korean_phrase": "The bridge connects two sides of the river.",
+      "expressions": [
+        "Cross the bridge.",
+        "The bridge is strong."
+      ],
+      "korean_expressions": [
+        "Cross the bridge.",
+        "그것은 좋습니다."
+      ]
+    },
+    {
+      "word": "역",
+      "meaning": "Place where trains or buses stop",
+      "phrase": "Wait at the station for the next train.",
+      "korean_phrase": "Wait at the station for the next train.",
+      "expressions": [
+        "Go to the station.",
+        "The station is busy."
+      ],
+      "korean_expressions": [
+        "Go to the station.",
+        "그것은 좋습니다."
+      ]
+    },
+    {
+      "word": "거리",
+      "meaning": "Space between two places",
+      "phrase": "The distance between home and school is short.",
+      "korean_phrase": "The distance between home and school is short.",
+      "expressions": [
+        "What's the distance?",
+        "Long distance takes time."
+      ],
+      "korean_expressions": [
+        "What's the distance?",
+        "Long distance takes time."
+      ]
+    },
+    {
+      "word": "방향",
+      "meaning": "Way to go to reach place",
+      "phrase": "Ask for directions if you get lost.",
+      "korean_phrase": "Ask for directions if you get lost.",
+      "expressions": [
+        "Show me directions.",
+        "Follow the directions."
+      ],
+      "korean_expressions": [
+        "Show me directions.",
+        "Follow the directions."
+      ]
+    },
+    {
+      "word": "모험",
+      "meaning": "Exciting experience",
+      "phrase": "Camping in forest was a great adventure.",
+      "korean_phrase": "Camping in forest was a great adventure.",
+      "expressions": [
+        "What an adventure!",
+        "Adventures are exciting."
+      ],
+      "korean_expressions": [
+        "What an adventure!",
+        "Adventures are exciting."
+      ]
+    }
+  ],
+  "history": [
+    {
+      "word": "역사",
+      "meaning": "Study of past events",
+      "phrase": "History helps us understand how the world changed.",
+      "korean_phrase": "History helps us understand how the world changed.",
+      "expressions": [
+        "History is interesting.",
+        "Learn from history."
+      ],
+      "korean_expressions": [
+        "History is interesting.",
+        "Learn from history."
+      ]
+    },
+    {
+      "word": "과거",
+      "meaning": "Time before now",
+      "phrase": "In the past, people traveled by horse and carriage.",
+      "korean_phrase": "In the past, people traveled by horse and carriage.",
+      "expressions": [
+        "In the past, things were different.",
+        "The past teaches us."
+      ],
+      "korean_expressions": [
+        "In the past, things were different.",
+        "The past teaches us."
+      ]
+    },
+    {
+      "word": "고대의",
+      "meaning": "Very old, from long ago",
+      "phrase": "Ancient Egypt had powerful kings called pharaohs.",
+      "korean_phrase": "Ancient Egypt had powerful kings called pharaohs.",
+      "expressions": [
+        "Ancient civilizations fascinate me.",
+        "These are ancient ruins."
+      ],
+      "korean_expressions": [
+        "Ancient civilizations fascinate me.",
+        "These are ancient ruins."
+      ]
+    },
+    {
+      "word": "전쟁",
+      "meaning": "Fighting between countries or groups",
+      "phrase": "The war ended when both sides agreed to peace.",
+      "korean_phrase": "The war ended when both sides agreed to peace.",
+      "expressions": [
+        "War brings suffering.",
+        "The war ended peacefully."
+      ],
+      "korean_expressions": [
+        "War brings suffering.",
+        "The war ended peacefully."
+      ]
+    },
+    {
+      "word": "평화",
+      "meaning": "Time when there is no fighting",
+      "phrase": "After years of conflict, peace finally came to the region.",
+      "korean_phrase": "After years of conflict, peace finally came to the region.",
+      "expressions": [
+        "We want peace.",
+        "Peace is precious."
+      ],
+      "korean_expressions": [
+        "We want peace.",
+        "Peace is precious."
+      ]
+    },
+    {
+      "word": "왕",
+      "meaning": "Male ruler of a country",
+      "phrase": "The king lived in a magnificent castle.",
+      "korean_phrase": "The king lived in a magnificent castle.",
+      "expressions": [
+        "The king ruled wisely.",
+        "Long live the king."
+      ],
+      "korean_expressions": [
+        "The king ruled wisely.",
+        "Long live the king."
+      ]
+    },
+    {
+      "word": "여왕",
+      "meaning": "Female ruler of a country",
+      "phrase": "The queen was loved by all her people.",
+      "korean_phrase": "The queen was loved by all her people.",
+      "expressions": [
+        "The queen was beloved.",
+        "The queen wore a crown."
+      ],
+      "korean_expressions": [
+        "The queen was beloved.",
+        "The queen wore a crown."
+      ]
+    },
+    {
+      "word": "성",
+      "meaning": "Large strong building where rulers lived",
+      "phrase": "The medieval castle still stands on the hill.",
+      "korean_phrase": "The medieval castle still stands on the hill.",
+      "expressions": [
+        "The castle is magnificent.",
+        "Visit the old castle."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Visit the old castle."
+      ]
+    },
+    {
+      "word": "전투",
+      "meaning": "Fight between armies",
+      "phrase": "The famous battle took place near the river.",
+      "korean_phrase": "The famous battle took place near the river.",
+      "expressions": [
+        "The battle was fierce.",
+        "They won the battle."
+      ],
+      "korean_expressions": [
+        "The battle was fierce.",
+        "They won the battle."
+      ]
+    },
+    {
+      "word": "발견",
+      "meaning": "Finding something new",
+      "phrase": "The discovery of America changed world history.",
+      "korean_phrase": "The discovery of America changed world history.",
+      "expressions": [
+        "What a great discovery!",
+        "The discovery changed everything."
+      ],
+      "korean_expressions": [
+        "What a great discovery!",
+        "The discovery changed everything."
+      ]
+    },
+    {
+      "word": "탐험가",
+      "meaning": "Person who travels to unknown places",
+      "phrase": "The brave explorer sailed across dangerous seas.",
+      "korean_phrase": "The brave explorer sailed across dangerous seas.",
+      "expressions": [
+        "The explorer was brave.",
+        "Explorers discover new lands."
+      ],
+      "korean_expressions": [
+        "The explorer was brave.",
+        "Explorers discover new lands."
+      ]
+    },
+    {
+      "word": "문화",
+      "meaning": "Way of life of a group of people",
+      "phrase": "Ancient Greek culture influenced many other civilizations.",
+      "korean_phrase": "Ancient Greek culture influenced many other civilizations.",
+      "expressions": [
+        "Ancient culture is rich.",
+        "Preserve our culture."
+      ],
+      "korean_expressions": [
+        "Ancient culture is rich.",
+        "Preserve our culture."
+      ]
+    },
+    {
+      "word": "예술",
+      "meaning": "Creative works like paintings and sculptures",
+      "phrase": "Renaissance art is displayed in museums worldwide.",
+      "korean_phrase": "Renaissance art is displayed in museums worldwide.",
+      "expressions": [
+        "Art expresses emotions.",
+        "I love classical art."
+      ],
+      "korean_expressions": [
+        "Art expresses emotions.",
+        "I love classical art."
+      ]
+    },
+    {
+      "word": "종교",
+      "meaning": "Belief in gods or spiritual ideas",
+      "phrase": "Religion played an important role in ancient societies.",
+      "korean_phrase": "Religion played an important role in ancient societies.",
+      "expressions": [
+        "Religion brings comfort.",
+        "Respect all religions."
+      ],
+      "korean_expressions": [
+        "Religion brings comfort.",
+        "Respect all religions."
+      ]
+    },
+    {
+      "word": "정부",
+      "meaning": "Group of people who rule a country",
+      "phrase": "The government makes laws for all citizens to follow.",
+      "korean_phrase": "The government makes laws for all citizens to follow.",
+      "expressions": [
+        "The government serves people.",
+        "Good government is important."
+      ],
+      "korean_expressions": [
+        "The government serves people.",
+        "Good government is important."
+      ]
+    },
+    {
+      "word": "발명",
+      "meaning": "Something created for the first time",
+      "phrase": "The invention of the wheel changed transportation forever.",
+      "korean_phrase": "The invention of the wheel changed transportation forever.",
+      "expressions": [
+        "What a useful invention!",
+        "Inventions change lives."
+      ],
+      "korean_expressions": [
+        "What a useful invention!",
+        "Inventions change lives."
+      ]
+    },
+    {
+      "word": "혁명",
+      "meaning": "Big change in how things are done",
+      "phrase": "The industrial revolution changed how people worked.",
+      "korean_phrase": "The industrial revolution changed how people worked.",
+      "expressions": [
+        "The revolution changed society.",
+        "Ideas can start revolutions."
+      ],
+      "korean_expressions": [
+        "The revolution changed society.",
+        "Ideas can start revolutions."
+      ]
+    },
+    {
+      "word": "제국",
+      "meaning": "Group of countries ruled by one power",
+      "phrase": "The Roman Empire was one of the largest in history.",
+      "korean_phrase": "The Roman Empire was one of the largest in history.",
+      "expressions": [
+        "The empire was vast.",
+        "Build your own empire."
+      ],
+      "korean_expressions": [
+        "The empire was vast.",
+        "Build your own empire."
+      ]
+    },
+    {
+      "word": "전통",
+      "meaning": "Custom passed from older to younger people",
+      "phrase": "Family traditions connect us to our ancestors.",
+      "korean_phrase": "Family traditions connect us to our ancestors.",
+      "expressions": [
+        "Family traditions matter.",
+        "Keep the tradition alive."
+      ],
+      "korean_expressions": [
+        "Family traditions matter.",
+        "Keep the tradition alive."
+      ]
+    },
+    {
+      "word": "기념비",
+      "meaning": "Structure built to remember important events",
+      "phrase": "The monument honors soldiers who died in the war.",
+      "korean_phrase": "The monument honors soldiers who died in the war.",
+      "expressions": [
+        "The monument is impressive.",
+        "Visit the war monument."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Visit the war monument."
+      ]
+    },
+    {
+      "word": "영웅",
+      "meaning": "Person who does brave things",
+      "phrase": "The hero saved many people during the flood.",
+      "korean_phrase": "The hero saved many people during the flood.",
+      "expressions": [
+        "He's a real hero.",
+        "Heroes help others."
+      ],
+      "korean_expressions": [
+        "He's a real hero.",
+        "Heroes help others."
+      ]
+    },
+    {
+      "word": "지도자",
+      "meaning": "Person who guides others",
+      "phrase": "A good leader helps people make right decisions.",
+      "korean_phrase": "A good leader helps people make right decisions.",
+      "expressions": [
+        "She's our leader.",
+        "Leaders guide people."
+      ],
+      "korean_expressions": [
+        "She's our leader.",
+        "Leaders guide people."
+      ]
+    },
+    {
+      "word": "군인",
+      "meaning": "Person who fights for country",
+      "phrase": "Brave soldiers protect our country from enemies.",
+      "korean_phrase": "Brave soldiers protect our country from enemies.",
+      "expressions": [
+        "The soldier is brave.",
+        "Soldiers serve country."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Soldiers serve country."
+      ]
+    },
+    {
+      "word": "자유",
+      "meaning": "Ability to do what you want",
+      "phrase": "Freedom means you can choose your own path.",
+      "korean_phrase": "Freedom means you can choose your own path.",
+      "expressions": [
+        "Freedom is precious.",
+        "We have freedom."
+      ],
+      "korean_expressions": [
+        "Freedom is precious.",
+        "We have freedom."
+      ]
+    },
+    {
+      "word": "승리",
+      "meaning": "Winning in battle or competition",
+      "phrase": "The team celebrated their victory in the game.",
+      "korean_phrase": "The team celebrated their victory in the game.",
+      "expressions": [
+        "Victory feels good.",
+        "They won victory."
+      ],
+      "korean_expressions": [
+        "Victory feels good.",
+        "They won victory."
+      ]
+    },
+    {
+      "word": "변화",
+      "meaning": "Making something different",
+      "phrase": "People can change the world with good ideas.",
+      "korean_phrase": "People can change the world with good ideas.",
+      "expressions": [
+        "Change is good.",
+        "Things always change."
+      ],
+      "korean_expressions": [
+        "Change is good.",
+        "Things always change."
+      ]
+    },
+    {
+      "word": "미래",
+      "meaning": "Time that will come later",
+      "phrase": "Students study hard to build better future.",
+      "korean_phrase": "Students study hard to build better future.",
+      "expressions": [
+        "The future is bright.",
+        "Plan for future."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Plan for future."
+      ]
+    },
+    {
+      "word": "기억",
+      "meaning": "Remembering things from past",
+      "phrase": "We keep memory of important events alive.",
+      "korean_phrase": "We keep memory of important events alive.",
+      "expressions": [
+        "That's good memory.",
+        "Memory helps learning."
+      ],
+      "korean_expressions": [
+        "That's good memory.",
+        "Memory helps learning."
+      ]
+    },
+    {
+      "word": "이야기",
+      "meaning": "Account of past events",
+      "phrase": "Grandparents tell stories about old times.",
+      "korean_phrase": "Grandparents tell stories about old times.",
+      "expressions": [
+        "Tell me story.",
+        "Stories teach lessons."
+      ],
+      "korean_expressions": [
+        "Tell me story.",
+        "Stories teach lessons."
+      ]
+    },
+    {
+      "word": "전설",
+      "meaning": "Old story passed down",
+      "phrase": "The legend tells about brave knight's adventures.",
+      "korean_phrase": "The legend tells about brave knight's adventures.",
+      "expressions": [
+        "That's ancient legend.",
+        "Legends inspire people."
+      ],
+      "korean_expressions": [
+        "That's ancient legend.",
+        "Legends inspire people."
+      ]
+    }
+  ],
+  "geography": [
+    {
+      "word": "지리",
+      "meaning": "Study of Earth's surface and features",
+      "phrase": "Geography class taught us about different countries.",
+      "korean_phrase": "Geography class taught us about different countries.",
+      "expressions": [
+        "Geography is fascinating.",
+        "Study world geography."
+      ],
+      "korean_expressions": [
+        "Geography is fascinating.",
+        "Study world geography."
+      ]
+    },
+    {
+      "word": "지구",
+      "meaning": "The planet where we live",
+      "phrase": "Earth is the third planet from the sun.",
+      "korean_phrase": "Earth is the third planet from the sun.",
+      "expressions": [
+        "Earth is beautiful.",
+        "Take care of Earth."
+      ],
+      "korean_expressions": [
+        "Earth is beautiful.",
+        "Take care of Earth."
+      ]
+    },
+    {
+      "word": "대륙",
+      "meaning": "Very large area of land",
+      "phrase": "Asia is the largest continent in the world.",
+      "korean_phrase": "Asia is the largest continent in the world.",
+      "expressions": [
+        "Asia is the largest continent.",
+        "Visit every continent."
+      ],
+      "korean_expressions": [
+        "Asia is the largest continent.",
+        "Visit every continent."
+      ]
+    },
+    {
+      "word": "바다",
+      "meaning": "Very large area of salt water",
+      "phrase": "The Atlantic Ocean separates Europe and America.",
+      "korean_phrase": "The Atlantic Ocean separates Europe and America.",
+      "expressions": [
+        "The ocean is vast.",
+        "Swim in the ocean."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Swim in the ocean."
+      ]
+    },
+    {
+      "word": "나라",
+      "meaning": "Area with its own government",
+      "phrase": "Canada is a country in North America.",
+      "korean_phrase": "Canada is a country in North America.",
+      "expressions": [
+        "My country is wonderful.",
+        "Visit a foreign country."
+      ],
+      "korean_expressions": [
+        "My country is wonderful.",
+        "Visit a foreign country."
+      ]
+    },
+    {
+      "word": "도시",
+      "meaning": "Large town where many people live",
+      "phrase": "London is the capital city of England.",
+      "korean_phrase": "London is the capital city of England.",
+      "expressions": [
+        "The city is exciting.",
+        "I love big cities."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "I love big cities."
+      ]
+    },
+    {
+      "word": "강",
+      "meaning": "Large stream of water",
+      "phrase": "The Amazon River flows through South America.",
+      "korean_phrase": "The Amazon River flows through South America.",
+      "expressions": [
+        "The river flows gently.",
+        "Cross the river carefully."
+      ],
+      "korean_expressions": [
+        "The river flows gently.",
+        "Cross the river carefully."
+      ]
+    },
+    {
+      "word": "산",
+      "meaning": "Very high area of land",
+      "phrase": "Mount Everest is the highest mountain on Earth.",
+      "korean_phrase": "Mount Everest is the highest mountain on Earth.",
+      "expressions": [
+        "The mountain is tall.",
+        "Climb the mountain."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Climb the mountain."
+      ]
+    },
+    {
+      "word": "사막",
+      "meaning": "Very dry area with little water",
+      "phrase": "The Sahara Desert covers much of North Africa.",
+      "korean_phrase": "The Sahara Desert covers much of North Africa.",
+      "expressions": [
+        "The desert is hot.",
+        "Cross the desert safely."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Cross the desert safely."
+      ]
+    },
+    {
+      "word": "숲",
+      "meaning": "Large area covered with trees",
+      "phrase": "The rainforest is home to many animal species.",
+      "korean_phrase": "The rainforest is home to many animal species.",
+      "expressions": [
+        "The forest is green.",
+        "Walk through the forest."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Walk through the forest."
+      ]
+    },
+    {
+      "word": "섬",
+      "meaning": "Piece of land surrounded by water",
+      "phrase": "Japan is an island nation in the Pacific Ocean.",
+      "korean_phrase": "Japan is an island nation in the Pacific Ocean.",
+      "expressions": [
+        "The island is peaceful.",
+        "Live on a tropical island."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Live on a tropical island."
+      ]
+    },
+    {
+      "word": "호수",
+      "meaning": "Large area of water surrounded by land",
+      "phrase": "We went fishing at the beautiful mountain lake.",
+      "korean_phrase": "We went fishing at the beautiful mountain lake.",
+      "expressions": [
+        "The lake is calm.",
+        "Fish in the lake."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Fish in the lake."
+      ]
+    },
+    {
+      "word": "기후",
+      "meaning": "Usual weather in a place",
+      "phrase": "The tropical climate is hot and humid year-round.",
+      "korean_phrase": "The tropical climate is hot and humid year-round.",
+      "expressions": [
+        "The climate is pleasant.",
+        "Climate affects agriculture."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Climate affects agriculture."
+      ]
+    },
+    {
+      "word": "인구",
+      "meaning": "Number of people living in a place",
+      "phrase": "The city's population has grown rapidly in recent years.",
+      "korean_phrase": "The city's population has grown rapidly in recent years.",
+      "expressions": [
+        "The population is growing.",
+        "Count the population."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Count the population."
+      ]
+    },
+    {
+      "word": "수도",
+      "meaning": "Most important city in a country",
+      "phrase": "Paris is the capital of France.",
+      "korean_phrase": "Paris is the capital of France.",
+      "expressions": [
+        "Paris is the capital.",
+        "Visit the capital city."
+      ],
+      "korean_expressions": [
+        "Paris is the capital.",
+        "Visit the capital city."
+      ]
+    },
+    {
+      "word": "국경",
+      "meaning": "Line separating two countries",
+      "phrase": "Show your passport when crossing the border.",
+      "korean_phrase": "Show your passport when crossing the border.",
+      "expressions": [
+        "Cross the border.",
+        "The border is secure."
+      ],
+      "korean_expressions": [
+        "Cross the border.",
+        "그것은 좋습니다."
+      ]
+    },
+    {
+      "word": "해안",
+      "meaning": "Land next to the sea",
+      "phrase": "The west coast has beautiful beaches and cliffs.",
+      "korean_phrase": "The west coast has beautiful beaches and cliffs.",
+      "expressions": [
+        "Walk along the coast.",
+        "The coast is rocky."
+      ],
+      "korean_expressions": [
+        "Walk along the coast.",
+        "그것은 좋습니다."
+      ]
+    },
+    {
+      "word": "계곡",
+      "meaning": "Low area between hills or mountains",
+      "phrase": "The green valley was perfect for farming.",
+      "korean_phrase": "The green valley was perfect for farming.",
+      "expressions": [
+        "The valley is green.",
+        "Drive through the valley."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Drive through the valley."
+      ]
+    },
+    {
+      "word": "북쪽",
+      "meaning": "Direction toward the top of maps",
+      "phrase": "Canada is north of the United States.",
+      "korean_phrase": "Canada is north of the United States.",
+      "expressions": [
+        "Go north.",
+        "North is cold."
+      ],
+      "korean_expressions": [
+        "Go north.",
+        "North is cold."
+      ]
+    },
+    {
+      "word": "남쪽",
+      "meaning": "Direction toward the bottom of maps",
+      "phrase": "We drove south for our winter vacation.",
+      "korean_phrase": "We drove south for our winter vacation.",
+      "expressions": [
+        "Travel south.",
+        "South is warmer."
+      ],
+      "korean_expressions": [
+        "Travel south.",
+        "South is warmer."
+      ]
+    },
+    {
+      "word": "동쪽",
+      "meaning": "Direction where sun rises",
+      "phrase": "The sun rises in the east every morning.",
+      "korean_phrase": "The sun rises in the east every morning.",
+      "expressions": [
+        "Go east.",
+        "East is sunrise direction."
+      ],
+      "korean_expressions": [
+        "Go east.",
+        "East is sunrise direction."
+      ]
+    },
+    {
+      "word": "서쪽",
+      "meaning": "Direction where sun sets",
+      "phrase": "The sun sets in the west every evening.",
+      "korean_phrase": "The sun sets in the west every evening.",
+      "expressions": [
+        "Head west.",
+        "West is sunset direction."
+      ],
+      "korean_expressions": [
+        "Head west.",
+        "West is sunset direction."
+      ]
+    },
+    {
+      "word": "세계",
+      "meaning": "All the countries and people on Earth",
+      "phrase": "People from around world speak different languages.",
+      "korean_phrase": "People from around world speak different languages.",
+      "expressions": [
+        "The world is big.",
+        "Explore the world."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Explore the world."
+      ]
+    },
+    {
+      "word": "지도",
+      "meaning": "Picture showing countries and places",
+      "phrase": "Look at the map to find your country.",
+      "korean_phrase": "Look at the map to find your country.",
+      "expressions": [
+        "Use the map.",
+        "Maps show locations."
+      ],
+      "korean_expressions": [
+        "Use the map.",
+        "Maps show locations."
+      ]
+    },
+    {
+      "word": "날씨",
+      "meaning": "Rain, sun, wind, and temperature outside",
+      "phrase": "Today's weather is perfect for outdoor games.",
+      "korean_phrase": "Today's weather is perfect for outdoor games.",
+      "expressions": [
+        "Weather is nice.",
+        "Check the weather."
+      ],
+      "korean_expressions": [
+        "Weather is nice.",
+        "Check the weather."
+      ]
+    },
+    {
+      "word": "계절",
+      "meaning": "Time of year like summer or winter",
+      "phrase": "Spring is the season when flowers bloom.",
+      "korean_phrase": "Spring is the season when flowers bloom.",
+      "expressions": [
+        "What season is it?",
+        "Each season is different."
+      ],
+      "korean_expressions": [
+        "What season is it?",
+        "Each season is different."
+      ]
+    },
+    {
+      "word": "뜨거운",
+      "meaning": "Having high temperature",
+      "phrase": "Desert places are very hot during the day.",
+      "korean_phrase": "Desert places are very hot during the day.",
+      "expressions": [
+        "It's hot today.",
+        "Hot weather needs water."
+      ],
+      "korean_expressions": [
+        "It's hot today.",
+        "Hot weather needs water."
+      ]
+    },
+    {
+      "word": "차가운",
+      "meaning": "Having low temperature",
+      "phrase": "Mountain tops are cold even in summer.",
+      "korean_phrase": "Mountain tops are cold even in summer.",
+      "expressions": [
+        "It's cold outside.",
+        "Cold weather needs coats."
+      ],
+      "korean_expressions": [
+        "It's cold outside.",
+        "Cold weather needs coats."
+      ]
+    },
+    {
+      "word": "비",
+      "meaning": "Water falling from clouds",
+      "phrase": "Plants need rain to grow big and strong.",
+      "korean_phrase": "Plants need rain to grow big and strong.",
+      "expressions": [
+        "It's going to rain.",
+        "Rain helps plants."
+      ],
+      "korean_expressions": [
+        "It's going to rain.",
+        "Rain helps plants."
+      ]
+    },
+    {
+      "word": "태양",
+      "meaning": "Bright star that gives light and heat",
+      "phrase": "The sun gives us light during the day.",
+      "korean_phrase": "The sun gives us light during the day.",
+      "expressions": [
+        "The sun is bright.",
+        "Sun makes plants grow."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "Sun makes plants grow."
+      ]
+    }
+  ],
+  "health": [
+    {
+      "word": "건강",
+      "meaning": "Being free from illness",
+      "phrase": "Good health is more important than wealth.",
+      "korean_phrase": "좋은 건강이 부보다 더 중요합니다.",
+      "expressions": [
+        "Health comes first.",
+        "Good health is wealth."
+      ],
+      "korean_expressions": [
+        "건강이 우선입니다.",
+        "좋은 건강이 재산입니다."
+      ]
+    },
+    {
+      "word": "의사",
+      "meaning": "Person who treats sick people",
+      "phrase": "Visit the doctor if you don't feel well.",
+      "korean_phrase": "몸이 좋지 않으면 의사를 찾아가세요.",
+      "expressions": [
+        "The doctor helps people.",
+        "Visit your doctor regularly."
+      ],
+      "korean_expressions": [
+        "의사는 사람들을 돕습니다.",
+        "정기적으로 의사를 찾아가세요."
+      ]
+    },
+    {
+      "word": "약",
+      "meaning": "Treatment for illness",
+      "phrase": "Take your medicine with water after meals.",
+      "korean_phrase": "식사 후에 물과 함께 약을 드세요.",
+      "expressions": [
+        "Medicine heals illness.",
+        "Take medicine as directed."
+      ],
+      "korean_expressions": [
+        "Medicine heals illness.",
+        "Take medicine as directed."
+      ]
+    },
+    {
+      "word": "병원",
+      "meaning": "Place where sick people are treated",
+      "phrase": "The new hospital has the latest medical equipment.",
+      "korean_phrase": "새 병원에는 최신 의료 장비가 있습니다.",
+      "expressions": [
+        "The hospital is clean.",
+        "She works at the hospital."
+      ],
+      "korean_expressions": [
+        "그것은 좋습니다.",
+        "She works at the hospital."
+      ]
+    },
+    {
+      "word": "운동",
+      "meaning": "Physical activity to stay healthy",
+      "phrase": "Regular exercise helps keep your body strong.",
+      "korean_phrase": "규칙적인 운동이 몸을 강하게 유지하는 데 도움이 됩니다.",
+      "expressions": [
+        "Exercise every day.",
+        "Exercise keeps you fit."
+      ],
+      "korean_expressions": [
+        "매일 운동하세요.",
+        "운동은 건강을 유지시켜줍니다."
+      ]
+    },
+    {
+      "word": "식단",
+      "meaning": "Food and drink regularly consumed",
+      "phrase": "A healthy diet includes lots of fruits and vegetables.",
+      "korean_phrase": "A healthy diet includes lots of fruits and vegetables.",
+      "expressions": [
+        "Eat a healthy diet.",
+        "My diet includes vegetables."
+      ],
+      "korean_expressions": [
+        "Eat a healthy diet.",
+        "My diet includes vegetables."
+      ]
+    },
+    {
+      "word": "영양",
+      "meaning": "Process of getting food needed for health",
+      "phrase": "Good nutrition is essential for growing children.",
+      "korean_phrase": "Good nutrition is essential for growing children.",
+      "expressions": [
+        "Nutrition is important.",
+        "Good nutrition prevents disease."
+      ],
+      "korean_expressions": [
+        "Nutrition is important.",
+        "Good nutrition prevents disease."
+      ]
+    },
+    {
+      "word": "건강",
+      "meaning": "Being physically healthy and strong",
+      "phrase": "The gym helps people improve their fitness level.",
+      "korean_phrase": "The gym helps people improve their fitness level.",
+      "expressions": [
+        "Fitness requires effort.",
+        "Join a fitness center."
+      ],
+      "korean_expressions": [
+        "Fitness requires effort.",
+        "Join a fitness center."
+      ]
+    },
+    {
+      "word": "잠",
+      "meaning": "Natural rest when eyes are closed",
+      "phrase": "Adults need about eight hours of sleep each night.",
+      "korean_phrase": "Adults need about eight hours of sleep each night.",
+      "expressions": [
+        "Get enough sleep.",
+        "Sleep helps you recover."
+      ],
+      "korean_expressions": [
+        "Get enough sleep.",
+        "Sleep helps you recover."
+      ]
+    },
+    {
+      "word": "스트레스",
+      "meaning": "Feeling worried or pressured",
+      "phrase": "Too much stress can harm your physical health.",
+      "korean_phrase": "Too much stress can harm your physical health.",
+      "expressions": [
+        "Reduce your stress.",
+        "Stress affects health."
+      ],
+      "korean_expressions": [
+        "Reduce your stress.",
+        "Stress affects health."
+      ]
+    },
+    {
+      "word": "비타민",
+      "meaning": "Substances needed for good health",
+      "phrase": "Fruits contain vitamins that boost your immune system.",
+      "korean_phrase": "Fruits contain vitamins that boost your immune system.",
+      "expressions": [
+        "Take your vitamins.",
+        "Vitamins boost immunity."
+      ],
+      "korean_expressions": [
+        "Take your vitamins.",
+        "Vitamins boost immunity."
+      ]
+    },
+    {
+      "word": "질병",
+      "meaning": "Disease or period of being sick",
+      "phrase": "Wash your hands regularly to prevent illness.",
+      "korean_phrase": "Wash your hands regularly to prevent illness.",
+      "expressions": [
+        "Prevent illness.",
+        "Recovery from illness takes time."
+      ],
+      "korean_expressions": [
+        "Prevent illness.",
+        "Recovery from illness takes time."
+      ]
+    },
+    {
+      "word": "회복",
+      "meaning": "Process of getting better after illness",
+      "phrase": "Rest and proper care speed up recovery time.",
+      "korean_phrase": "Rest and proper care speed up recovery time.",
+      "expressions": [
+        "Recovery is slow.",
+        "Wish you a quick recovery."
+      ],
+      "korean_expressions": [
+        "Recovery is slow.",
+        "Wish you a quick recovery."
+      ]
+    },
+    {
+      "word": "예방",
+      "meaning": "Stopping something bad from happening",
+      "phrase": "Prevention is better than cure for most diseases.",
+      "korean_phrase": "Prevention is better than cure for most diseases.",
+      "expressions": [
+        "Prevention is key.",
+        "Focus on disease prevention."
+      ],
+      "korean_expressions": [
+        "Prevention is key.",
+        "Focus on disease prevention."
+      ]
+    },
+    {
+      "word": "치료",
+      "meaning": "Medical care for illness or injury",
+      "phrase": "Early treatment can prevent serious complications.",
+      "korean_phrase": "Early treatment can prevent serious complications.",
+      "expressions": [
+        "Treatment is effective.",
+        "Seek proper treatment."
+      ],
+      "korean_expressions": [
+        "Treatment is effective.",
+        "Seek proper treatment."
+      ]
+    },
+    {
+      "word": "증상",
+      "meaning": "Signs that show someone is sick",
+      "phrase": "Fever and headache are common cold symptoms.",
+      "korean_phrase": "Fever and headache are common cold symptoms.",
+      "expressions": [
+        "Watch for symptoms.",
+        "The symptoms are mild."
+      ],
+      "korean_expressions": [
+        "Watch for symptoms.",
+        "The symptoms are mild."
+      ]
+    },
+    {
+      "word": "검진",
+      "meaning": "Medical examination to check health",
+      "phrase": "Get a regular checkup to monitor your health.",
+      "korean_phrase": "Get a regular checkup to monitor your health.",
+      "expressions": [
+        "Get a checkup.",
+        "Regular checkups are important."
+      ],
+      "korean_expressions": [
+        "Get a checkup.",
+        "Regular checkups are important."
+      ]
+    },
+    {
+      "word": "위생",
+      "meaning": "Practices to maintain health and cleanliness",
+      "phrase": "Good personal hygiene prevents many infections.",
+      "korean_phrase": "Good personal hygiene prevents many infections.",
+      "expressions": [
+        "Practice good hygiene.",
+        "Hygiene prevents infection."
+      ],
+      "korean_expressions": [
+        "Practice good hygiene.",
+        "Hygiene prevents infection."
+      ]
+    },
+    {
+      "word": "정신적인",
+      "meaning": "Related to the mind and emotions",
+      "phrase": "Mental health is just as important as physical health.",
+      "korean_phrase": "Mental health is just as important as physical health.",
+      "expressions": [
+        "Mental health matters.",
+        "Stay mentally strong."
+      ],
+      "korean_expressions": [
+        "Mental health matters.",
+        "Stay mentally strong."
+      ]
+    },
+    {
+      "word": "건강",
+      "meaning": "State of being healthy and happy",
+      "phrase": "The wellness program focuses on total health improvement.",
+      "korean_phrase": "The wellness program focuses on total health improvement.",
+      "expressions": [
+        "Wellness is a goal.",
+        "Focus on total wellness."
+      ],
+      "korean_expressions": [
+        "Wellness is a goal.",
+        "Focus on total wellness."
+      ]
+    },
+    {
+      "word": "강한",
+      "meaning": "Having power and energy",
+      "phrase": "Eating good food makes your body strong.",
+      "korean_phrase": "Eating good food makes your body strong.",
+      "expressions": [
+        "Stay strong.",
+        "Strong bodies last longer."
+      ],
+      "korean_expressions": [
+        "Stay strong.",
+        "Strong bodies last longer."
+      ]
+    },
+    {
+      "word": "약한",
+      "meaning": "Not having much strength",
+      "phrase": "You feel weak when you don't eat enough.",
+      "korean_phrase": "You feel weak when you don't eat enough.",
+      "expressions": [
+        "Don't feel weak.",
+        "Weak people need help."
+      ],
+      "korean_expressions": [
+        "Don't feel weak.",
+        "Weak people need help."
+      ]
+    },
+    {
+      "word": "피곤한",
+      "meaning": "Needing rest or sleep",
+      "phrase": "Children feel tired after playing all day.",
+      "korean_phrase": "Children feel tired after playing all day.",
+      "expressions": [
+        "I'm tired now.",
+        "Tired people need rest."
+      ],
+      "korean_expressions": [
+        "I'm tired now.",
+        "Tired people need rest."
+      ]
+    },
+    {
+      "word": "에너지",
+      "meaning": "Power to be active",
+      "phrase": "Good breakfast gives you energy for whole day.",
+      "korean_phrase": "Good breakfast gives you energy for whole day.",
+      "expressions": [
+        "I have energy.",
+        "Energy helps activity."
+      ],
+      "korean_expressions": [
+        "I have energy.",
+        "Energy helps activity."
+      ]
+    },
+    {
+      "word": "휴식",
+      "meaning": "Stop activity to relax",
+      "phrase": "Take rest when you feel tired from work.",
+      "korean_phrase": "Take rest when you feel tired from work.",
+      "expressions": [
+        "Get some rest.",
+        "Rest helps recovery."
+      ],
+      "korean_expressions": [
+        "Get some rest.",
+        "Rest helps recovery."
+      ]
+    },
+    {
+      "word": "깨끗한",
+      "meaning": "Free from dirt",
+      "phrase": "Keep your hands clean to avoid getting sick.",
+      "korean_phrase": "Keep your hands clean to avoid getting sick.",
+      "expressions": [
+        "Stay clean.",
+        "Clean things are healthy."
+      ],
+      "korean_expressions": [
+        "Stay clean.",
+        "Clean things are healthy."
+      ]
+    },
+    {
+      "word": "씻다",
+      "meaning": "Clean with water",
+      "phrase": "Wash your hands before eating food.",
+      "korean_phrase": "Wash your hands before eating food.",
+      "expressions": [
+        "Wash your hands.",
+        "Washing prevents germs."
+      ],
+      "korean_expressions": [
+        "Wash your hands.",
+        "Washing prevents germs."
+      ]
+    },
+    {
+      "word": "아프다",
+      "meaning": "Feel pain",
+      "phrase": "Your knee will hurt if you fall down.",
+      "korean_phrase": "Your knee will hurt if you fall down.",
+      "expressions": [
+        "That might hurt.",
+        "Don't hurt yourself."
+      ],
+      "korean_expressions": [
+        "That might hurt.",
+        "Don't hurt yourself."
+      ]
+    },
+    {
+      "word": "안전한",
+      "meaning": "Protected from danger",
+      "phrase": "Wear helmet to keep your head safe.",
+      "korean_phrase": "Wear helmet to keep your head safe.",
+      "expressions": [
+        "Stay safe.",
+        "Safe places protect us."
+      ],
+      "korean_expressions": [
+        "Stay safe.",
+        "Safe places protect us."
+      ]
+    },
+    {
+      "word": "위험",
+      "meaning": "Possibility of harm",
+      "phrase": "Fire is danger, so stay away from it.",
+      "korean_phrase": "Fire is danger, so stay away from it.",
+      "expressions": [
+        "Avoid danger.",
+        "Danger can hurt people."
+      ],
+      "korean_expressions": [
+        "Avoid danger.",
+        "Danger can hurt people."
+      ]
+    }
+  ]
+}
